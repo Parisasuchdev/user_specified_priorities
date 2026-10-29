@@ -1,0 +1,134 @@
+## Bottom line
+
+**Microsoft appears to offer the stronger five-year *earnings visibility***: it has deeply embedded enterprise software, a large contracted-revenue base, and clear AI monetization channels through Azure, Microsoft 365, GitHub, Dynamics, and security.  
+
+**Alphabet appears to offer the greater five-year *upside optionality***: Search, YouTube, Cloud, Gemini, custom AI infrastructure, and Waymo give it several large growth vectors. But its outcome range is wider because AI could disrupt search economics and because regulatory remedies directly target its distribution and ad-tech advantages.
+
+My overall assessment: **Microsoft is the more predictable long-term compounder; Alphabet has the slightly higher potential growth ceiling, but also more business-model and regulatory uncertainty.**
+
+*Figures below use Microsoft’s fiscal year ended June 30, 2026 and Alphabet’s fiscal year ended December 31, 2025, supplemented by Alphabet’s June 2026 quarter. These periods are not perfectly comparable.*
+
+---
+
+## 1. Business-model comparison
+
+| Dimension | Microsoft | Alphabet |
+|---|---|---|
+| Core profit engine | Enterprise software, cloud infrastructure/platform, productivity, security, developer tools | Digital advertising, especially Search; plus YouTube, Cloud, subscriptions, devices |
+| Customer relationship | Predominantly businesses and governments, often through multi-year agreements | Consumers and advertisers; Google Cloud increasingly adds enterprise relationships |
+| Primary AI monetization | Azure consumption, Copilot subscriptions/usage, developer tools, business apps, security | Better search and ad products, Cloud AI infrastructure/software, Workspace/Gemini subscriptions, TPU systems |
+| Principal moat | Enterprise workflows, identity, installed base, switching costs, developer ecosystem | Global consumer reach, search intent data, advertiser network, YouTube, Android/Chrome distribution, AI research/infrastructure |
+| Main strategic risk | AI infrastructure spending may outpace durable monetization; cloud competition | AI may change search behavior/economics; major antitrust and platform regulation |
+
+---
+
+## 2. Current scale and financial quality
+
+### Microsoft: smaller revenue base than Alphabet, but higher margins and more contractual visibility
+
+Microsoft reported **$331.8 billion** of FY2026 revenue, up **18%**, and **$155.2 billion** of operating income, up **21%**—an operating margin of roughly **46.8%**. Microsoft Cloud revenue reached **$214.4 billion**, up **27%**; Azure exceeded **$100 billion** in annual revenue and grew **41%**. ([microsoft.com](https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast))
+
+The key qualitative metric is commercial remaining performance obligation—contracted revenue not yet recognized—which rose **84% to $678 billion** at fiscal year-end. That is not all near-term revenue, but it supports the view that Microsoft’s enterprise cloud and software business has unusually strong forward visibility. ([microsoft.com](https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast))
+
+Microsoft also has direct evidence that AI is becoming a commercial product rather than solely an infrastructure cost: it reported more than **30 million paid Microsoft 365 Copilot seats**, while Azure and other cloud services grew **43%** in the June quarter. ([microsoft.com](https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast))
+
+### Alphabet: larger revenue base, a powerful cash engine, and a rapidly accelerating cloud division
+
+Alphabet generated **$402.8 billion** of 2025 revenue and **$129.0 billion** of operating income, equivalent to an operating margin of about **32.0%**. Google Services produced **$342.7 billion** of revenue and **$139.4 billion** of segment operating income; Google Cloud added **$58.7 billion** of revenue and **$13.9 billion** of operating income. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm))
+
+Advertising still accounted for approximately **73%** of 2025 Alphabet revenue, so the company remains meaningfully more concentrated than Microsoft despite its expanding Cloud, subscription, and hardware businesses. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm))
+
+Recent performance makes the growth case more compelling. In the quarter ended June 30, 2026, Alphabet revenue rose **24%** year over year to **$119.8 billion**. Google Services grew **15%**, while Google Cloud revenue rose **82%** to **$24.8 billion** and Cloud operating income rose to **$8.8 billion**. This quarter included demand for AI infrastructure and enterprise AI solutions, although Alphabet also began recognizing revenue from TPU-system sales—so the 82% growth rate should not be extrapolated mechanically. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm))
+
+---
+
+## 3. Long-term growth potential
+
+### Microsoft’s case: enterprise AI can raise revenue per customer across the stack
+
+Microsoft’s five-year opportunity is not limited to selling raw cloud computing. Its strategic advantage is the ability to distribute AI through products that businesses already use daily:
+
+- **Azure** supplies infrastructure, data, security, and AI services.
+- **Microsoft 365 Copilot** can increase average revenue per user inside Office, Teams, Outlook, and other workflow products.
+- **GitHub Copilot** monetizes developers.
+- **Dynamics, Power Platform, Fabric, and security products** create usage-based opportunities around business processes and enterprise data.
+
+This matters because Microsoft can combine subscription pricing with consumption pricing. Its management explicitly described movement toward “per-seat-plus-consumption” models, and it reported that Foundry revenue more than doubled year over year, with 100,000 customers. ([microsoft.com](https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4))
+
+The long-term bull case is that AI becomes a durable extension of Microsoft’s existing enterprise control points—not a separate consumer application that needs to win distribution from scratch. A customer already standardized on Microsoft identity, productivity, security, data, and cloud infrastructure has practical incentives to use Microsoft’s AI tools within the same governance environment. The large remaining-performance-obligation balance reinforces that Microsoft begins this transition with substantial contracted customer relationships. ([microsoft.com](https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast))
+
+**What could constrain that outcome:** Microsoft’s AI strategy is increasingly capital-intensive. Management said it expected roughly **$190 billion** of calendar-2026 capital expenditures and anticipated Azure capacity constraints through at least 2026. That investment can be rational if AI workloads prove recurring and high margin; it is a risk if lower-cost models, competition, or slower enterprise adoption compress returns on infrastructure. ([microsoft.com](https://www.microsoft.com/en-us/Investor/events/fy-2026/earnings-fy-2026-q3?utm_source=openai))
+
+### Alphabet’s case: it can grow Cloud while defending and reinventing the world’s largest intent-and-advertising platform
+
+Alphabet has more distinct growth engines:
+
+1. **Search and commercial intent.** Search remains an exceptional advertising product because it captures users near moments of decision and gives advertisers measurable outcomes.
+2. **YouTube.** It has advertising, subscriptions, creator economics, and connected-TV potential.
+3. **Google Cloud.** A comparatively smaller base means successful AI infrastructure and software adoption can move consolidated growth more meaningfully.
+4. **Gemini and custom TPUs.** Alphabet uses its AI infrastructure internally and sells AI-related Cloud services externally. Its Cloud offerings include Vertex AI, Gemini Enterprise, data and analytics products, cybersecurity, and Google Workspace. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm))
+5. **Other Bets, especially Waymo.** These are economically immaterial today relative to Google, but Waymo creates a genuine long-duration call option on autonomous transportation. Alphabet describes Other Bets as spanning early research through commercialization, with Waymo expanding in U.S. cities and internationally. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm))
+
+Google Cloud is the centerpiece of the five-year bull case. Its 2025 revenue was only $58.7 billion, versus Microsoft Cloud’s $214.4 billion, yet Alphabet reported $242.8 billion of revenue backlog at year-end, primarily related to Cloud, with just over half expected to be recognized over the next 24 months. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm))
+
+That combination—a smaller but scaling Cloud business, proprietary AI accelerators, and cash flows from Search and YouTube—gives Alphabet room to invest aggressively. Its June-quarter Cloud operating margin was roughly **35.6%**, versus roughly **23.7%** for the full 2025 year, though the latest-quarter margin may not represent a steady-state rate. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm))
+
+**The crucial uncertainty:** Alphabet itself acknowledges that embedding AI into Search may change monetization and margin patterns, because it is prioritizing user experience before monetization. If AI answers reduce traditional query volumes, ad-click opportunities, or advertiser economics, Alphabet must prove that AI-enhanced search is at least as profitable as the historical model. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm))
+
+---
+
+## 4. Competitive positioning in AI
+
+### Microsoft has the stronger enterprise distribution position
+
+Microsoft is especially well placed where AI adoption requires security, compliance, identity management, workflow integration, and data governance. Its model strategy also reduces single-vendor model risk: Microsoft says Azure offers more than 11,000 models, including OpenAI, Anthropic, Mistral, xAI, and Microsoft’s own MAI models. ([microsoft.com](https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4))
+
+The resulting advantage is less about owning the best model at every moment and more about being the enterprise platform through which customers build, govern, and deploy AI applications.
+
+### Alphabet has a stronger consumer-AI and information advantage
+
+Alphabet has world-scale consumer touchpoints—Search, YouTube, Android, Chrome, Maps, Gmail—and a huge advertiser base. It also has deep AI research, custom accelerators, and the ability to deploy AI features directly into products used by billions of people. Its 2025 filing describes AI Overviews and AI Mode as new Search experiences built around Gemini’s reasoning and multimodal capabilities. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm))
+
+The advantage is formidable, but harder to value: the central question is whether AI improves Google’s core economic engine or changes it into a lower-margin, more costly service.
+
+---
+
+## 5. Risks that matter most over the next five years
+
+### Microsoft
+
+1. **Return on AI capex.** Data centers, chips, and power are expensive; the financial test is whether incremental Azure and Copilot revenue supports high returns after depreciation and financing costs.
+2. **Cloud competition.** AWS, Google Cloud, Oracle, and specialized AI providers are competing for the same workloads.
+3. **AI commoditization.** If models become interchangeable and cheaper quickly, infrastructure and application pricing power could weaken.
+4. **Execution across a complex portfolio.** Windows and Xbox were weaker in Microsoft’s June quarter, illustrating that not every business is benefiting equally from AI demand. ([microsoft.com](https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast))
+
+### Alphabet
+
+1. **Search disruption.** Conversational AI can alter the number, nature, and monetization of search queries.
+2. **Regulation and antitrust remedies.** U.S. search remedies prohibit certain exclusive distribution arrangements and require sharing certain search index and user-interaction data with qualifying competitors. Separate ad-tech remedies require interoperability, data-sharing, and limits on preferential behavior in Google’s ad-tech tools. These requirements could erode distribution and data advantages over time. ([justice.gov](https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google?utm_source=openai))
+3. **Advertising concentration.** Advertising remains the majority of revenue; a macro downturn or a structural decline in search-ad economics would matter more to Alphabet than a comparable shock would to Microsoft. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm))
+4. **Investment intensity and moonshot losses.** Other Bets lost $7.5 billion in 2025, while Alphabet-level AI research expenses are also substantial. Those investments may create major future value, but are uncertain. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm))
+
+---
+
+## 6. Five-year judgment
+
+### Choose Microsoft’s business if you value:
+- More predictable revenue and earnings;
+- Enterprise lock-in and recurring subscriptions;
+- A clearer path to AI monetization;
+- Stronger contracted-revenue visibility;
+- Lower exposure to search disruption and direct antitrust remedies to the core profit pool.
+
+### Choose Alphabet’s business if you value:
+- A broader set of large upside opportunities;
+- Faster potential Cloud growth off a smaller base;
+- A still-growing Search/YouTube cash engine to finance AI investment;
+- Consumer-AI reach and custom infrastructure;
+- Optionality from Waymo and other non-core businesses.
+
+## Overall conclusion
+
+**Microsoft has the superior risk-adjusted long-term growth profile.** Its cloud and AI products are directly attached to enterprise budgets, existing workflows, and contractual relationships; its $678 billion commercial backlog and expanding Copilot adoption make monetization more observable. ([microsoft.com](https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast))
+
+**Alphabet may have the higher absolute upside if it simultaneously preserves Search economics, turns Gemini into a durable consumer and enterprise platform, and scales Google Cloud into a much larger profit contributor.** Recent Cloud performance supports that possibility. However, the combination of AI-driven search uncertainty and targeted antitrust remedies means Alphabet’s five-year outcome is more variable. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm))

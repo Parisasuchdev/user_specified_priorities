@@ -1,0 +1,300 @@
+{
+  "collection_name": "official_v1",
+  "run_mode": "official",
+  "collection_type": "official",
+  "purpose": "Compare research priorities across neutral, growth, and resilience conditions.",
+  "created_at_utc": "2026-10-12T22:25:14.475983Z",
+  "repetitions_per_condition_per_provider": 6,
+  "planned_runs": 36,
+  "chronological_order_controlled": false,
+  "runs": [
+    {
+      "run_id": "OAI_NEUTRAL_01",
+      "provider": "openai",
+      "model": "gpt-5.6-terra",
+      "condition": "neutral",
+      "repetition": 1,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources."
+    },
+    {
+      "run_id": "OAI_GROWTH_01",
+      "provider": "openai",
+      "model": "gpt-5.6-terra",
+      "condition": "growth",
+      "repetition": 1,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term growth potential."
+    },
+    {
+      "run_id": "OAI_RESILIENCE_01",
+      "provider": "openai",
+      "model": "gpt-5.6-terra",
+      "condition": "resilience",
+      "repetition": 1,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term business resilience."
+    },
+    {
+      "run_id": "OAI_NEUTRAL_02",
+      "provider": "openai",
+      "model": "gpt-5.6-terra",
+      "condition": "neutral",
+      "repetition": 2,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources."
+    },
+    {
+      "run_id": "OAI_GROWTH_02",
+      "provider": "openai",
+      "model": "gpt-5.6-terra",
+      "condition": "growth",
+      "repetition": 2,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term growth potential."
+    },
+    {
+      "run_id": "OAI_RESILIENCE_02",
+      "provider": "openai",
+      "model": "gpt-5.6-terra",
+      "condition": "resilience",
+      "repetition": 2,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term business resilience."
+    },
+    {
+      "run_id": "OAI_NEUTRAL_03",
+      "provider": "openai",
+      "model": "gpt-5.6-terra",
+      "condition": "neutral",
+      "repetition": 3,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources."
+    },
+    {
+      "run_id": "OAI_GROWTH_03",
+      "provider": "openai",
+      "model": "gpt-5.6-terra",
+      "condition": "growth",
+      "repetition": 3,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term growth potential."
+    },
+    {
+      "run_id": "OAI_RESILIENCE_03",
+      "provider": "openai",
+      "model": "gpt-5.6-terra",
+      "condition": "resilience",
+      "repetition": 3,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term business resilience."
+    },
+    {
+      "run_id": "OAI_NEUTRAL_04",
+      "provider": "openai",
+      "model": "gpt-5.6-terra",
+      "condition": "neutral",
+      "repetition": 4,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources."
+    },
+    {
+      "run_id": "OAI_GROWTH_04",
+      "provider": "openai",
+      "model": "gpt-5.6-terra",
+      "condition": "growth",
+      "repetition": 4,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term growth potential."
+    },
+    {
+      "run_id": "OAI_RESILIENCE_04",
+      "provider": "openai",
+      "model": "gpt-5.6-terra",
+      "condition": "resilience",
+      "repetition": 4,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term business resilience."
+    },
+    {
+      "run_id": "OAI_NEUTRAL_05",
+      "provider": "openai",
+      "model": "gpt-5.6-terra",
+      "condition": "neutral",
+      "repetition": 5,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources."
+    },
+    {
+      "run_id": "OAI_GROWTH_05",
+      "provider": "openai",
+      "model": "gpt-5.6-terra",
+      "condition": "growth",
+      "repetition": 5,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term growth potential."
+    },
+    {
+      "run_id": "OAI_RESILIENCE_05",
+      "provider": "openai",
+      "model": "gpt-5.6-terra",
+      "condition": "resilience",
+      "repetition": 5,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term business resilience."
+    },
+    {
+      "run_id": "OAI_NEUTRAL_06",
+      "provider": "openai",
+      "model": "gpt-5.6-terra",
+      "condition": "neutral",
+      "repetition": 6,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources."
+    },
+    {
+      "run_id": "OAI_GROWTH_06",
+      "provider": "openai",
+      "model": "gpt-5.6-terra",
+      "condition": "growth",
+      "repetition": 6,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term growth potential."
+    },
+    {
+      "run_id": "OAI_RESILIENCE_06",
+      "provider": "openai",
+      "model": "gpt-5.6-terra",
+      "condition": "resilience",
+      "repetition": 6,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term business resilience."
+    },
+    {
+      "run_id": "CLD_NEUTRAL_01",
+      "provider": "claude",
+      "model": "claude-sonnet-5",
+      "condition": "neutral",
+      "repetition": 1,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources."
+    },
+    {
+      "run_id": "CLD_GROWTH_01",
+      "provider": "claude",
+      "model": "claude-sonnet-5",
+      "condition": "growth",
+      "repetition": 1,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term growth potential."
+    },
+    {
+      "run_id": "CLD_RESILIENCE_01",
+      "provider": "claude",
+      "model": "claude-sonnet-5",
+      "condition": "resilience",
+      "repetition": 1,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term business resilience."
+    },
+    {
+      "run_id": "CLD_NEUTRAL_02",
+      "provider": "claude",
+      "model": "claude-sonnet-5",
+      "condition": "neutral",
+      "repetition": 2,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources."
+    },
+    {
+      "run_id": "CLD_GROWTH_02",
+      "provider": "claude",
+      "model": "claude-sonnet-5",
+      "condition": "growth",
+      "repetition": 2,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term growth potential."
+    },
+    {
+      "run_id": "CLD_RESILIENCE_02",
+      "provider": "claude",
+      "model": "claude-sonnet-5",
+      "condition": "resilience",
+      "repetition": 2,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term business resilience."
+    },
+    {
+      "run_id": "CLD_NEUTRAL_03",
+      "provider": "claude",
+      "model": "claude-sonnet-5",
+      "condition": "neutral",
+      "repetition": 3,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources."
+    },
+    {
+      "run_id": "CLD_GROWTH_03",
+      "provider": "claude",
+      "model": "claude-sonnet-5",
+      "condition": "growth",
+      "repetition": 3,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term growth potential."
+    },
+    {
+      "run_id": "CLD_RESILIENCE_03",
+      "provider": "claude",
+      "model": "claude-sonnet-5",
+      "condition": "resilience",
+      "repetition": 3,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term business resilience."
+    },
+    {
+      "run_id": "CLD_NEUTRAL_04",
+      "provider": "claude",
+      "model": "claude-sonnet-5",
+      "condition": "neutral",
+      "repetition": 4,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources."
+    },
+    {
+      "run_id": "CLD_GROWTH_04",
+      "provider": "claude",
+      "model": "claude-sonnet-5",
+      "condition": "growth",
+      "repetition": 4,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term growth potential."
+    },
+    {
+      "run_id": "CLD_RESILIENCE_04",
+      "provider": "claude",
+      "model": "claude-sonnet-5",
+      "condition": "resilience",
+      "repetition": 4,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term business resilience."
+    },
+    {
+      "run_id": "CLD_NEUTRAL_05",
+      "provider": "claude",
+      "model": "claude-sonnet-5",
+      "condition": "neutral",
+      "repetition": 5,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources."
+    },
+    {
+      "run_id": "CLD_GROWTH_05",
+      "provider": "claude",
+      "model": "claude-sonnet-5",
+      "condition": "growth",
+      "repetition": 5,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term growth potential."
+    },
+    {
+      "run_id": "CLD_RESILIENCE_05",
+      "provider": "claude",
+      "model": "claude-sonnet-5",
+      "condition": "resilience",
+      "repetition": 5,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term business resilience."
+    },
+    {
+      "run_id": "CLD_NEUTRAL_06",
+      "provider": "claude",
+      "model": "claude-sonnet-5",
+      "condition": "neutral",
+      "repetition": 6,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources."
+    },
+    {
+      "run_id": "CLD_GROWTH_06",
+      "provider": "claude",
+      "model": "claude-sonnet-5",
+      "condition": "growth",
+      "repetition": 6,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term growth potential."
+    },
+    {
+      "run_id": "CLD_RESILIENCE_06",
+      "provider": "claude",
+      "model": "claude-sonnet-5",
+      "condition": "resilience",
+      "repetition": 6,
+      "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term business resilience."
+    }
+  ]
+}

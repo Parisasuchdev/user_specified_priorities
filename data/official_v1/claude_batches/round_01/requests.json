@@ -1,0 +1,812 @@
+[
+  {
+    "custom_id": "CLD_NEUTRAL_01",
+    "params": {
+      "model": "claude-sonnet-5",
+      "max_tokens": 65536,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources."
+        }
+      ],
+      "tools": [
+        {
+          "type": "web_search_20260318",
+          "name": "web_search",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full"
+        },
+        {
+          "type": "web_fetch_20260318",
+          "name": "web_fetch",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full",
+          "use_cache": true,
+          "citations": {
+            "enabled": true
+          }
+        }
+      ],
+      "tool_choice": {
+        "type": "auto"
+      },
+      "thinking": {
+        "type": "adaptive",
+        "display": "omitted"
+      },
+      "output_config": {
+        "effort": "high"
+      }
+    }
+  },
+  {
+    "custom_id": "CLD_GROWTH_01",
+    "params": {
+      "model": "claude-sonnet-5",
+      "max_tokens": 65536,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term growth potential."
+        }
+      ],
+      "tools": [
+        {
+          "type": "web_search_20260318",
+          "name": "web_search",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full"
+        },
+        {
+          "type": "web_fetch_20260318",
+          "name": "web_fetch",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full",
+          "use_cache": true,
+          "citations": {
+            "enabled": true
+          }
+        }
+      ],
+      "tool_choice": {
+        "type": "auto"
+      },
+      "thinking": {
+        "type": "adaptive",
+        "display": "omitted"
+      },
+      "output_config": {
+        "effort": "high"
+      }
+    }
+  },
+  {
+    "custom_id": "CLD_RESILIENCE_01",
+    "params": {
+      "model": "claude-sonnet-5",
+      "max_tokens": 65536,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term business resilience."
+        }
+      ],
+      "tools": [
+        {
+          "type": "web_search_20260318",
+          "name": "web_search",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full"
+        },
+        {
+          "type": "web_fetch_20260318",
+          "name": "web_fetch",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full",
+          "use_cache": true,
+          "citations": {
+            "enabled": true
+          }
+        }
+      ],
+      "tool_choice": {
+        "type": "auto"
+      },
+      "thinking": {
+        "type": "adaptive",
+        "display": "omitted"
+      },
+      "output_config": {
+        "effort": "high"
+      }
+    }
+  },
+  {
+    "custom_id": "CLD_NEUTRAL_02",
+    "params": {
+      "model": "claude-sonnet-5",
+      "max_tokens": 65536,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources."
+        }
+      ],
+      "tools": [
+        {
+          "type": "web_search_20260318",
+          "name": "web_search",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full"
+        },
+        {
+          "type": "web_fetch_20260318",
+          "name": "web_fetch",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full",
+          "use_cache": true,
+          "citations": {
+            "enabled": true
+          }
+        }
+      ],
+      "tool_choice": {
+        "type": "auto"
+      },
+      "thinking": {
+        "type": "adaptive",
+        "display": "omitted"
+      },
+      "output_config": {
+        "effort": "high"
+      }
+    }
+  },
+  {
+    "custom_id": "CLD_GROWTH_02",
+    "params": {
+      "model": "claude-sonnet-5",
+      "max_tokens": 65536,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term growth potential."
+        }
+      ],
+      "tools": [
+        {
+          "type": "web_search_20260318",
+          "name": "web_search",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full"
+        },
+        {
+          "type": "web_fetch_20260318",
+          "name": "web_fetch",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full",
+          "use_cache": true,
+          "citations": {
+            "enabled": true
+          }
+        }
+      ],
+      "tool_choice": {
+        "type": "auto"
+      },
+      "thinking": {
+        "type": "adaptive",
+        "display": "omitted"
+      },
+      "output_config": {
+        "effort": "high"
+      }
+    }
+  },
+  {
+    "custom_id": "CLD_RESILIENCE_02",
+    "params": {
+      "model": "claude-sonnet-5",
+      "max_tokens": 65536,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term business resilience."
+        }
+      ],
+      "tools": [
+        {
+          "type": "web_search_20260318",
+          "name": "web_search",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full"
+        },
+        {
+          "type": "web_fetch_20260318",
+          "name": "web_fetch",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full",
+          "use_cache": true,
+          "citations": {
+            "enabled": true
+          }
+        }
+      ],
+      "tool_choice": {
+        "type": "auto"
+      },
+      "thinking": {
+        "type": "adaptive",
+        "display": "omitted"
+      },
+      "output_config": {
+        "effort": "high"
+      }
+    }
+  },
+  {
+    "custom_id": "CLD_NEUTRAL_03",
+    "params": {
+      "model": "claude-sonnet-5",
+      "max_tokens": 65536,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources."
+        }
+      ],
+      "tools": [
+        {
+          "type": "web_search_20260318",
+          "name": "web_search",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full"
+        },
+        {
+          "type": "web_fetch_20260318",
+          "name": "web_fetch",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full",
+          "use_cache": true,
+          "citations": {
+            "enabled": true
+          }
+        }
+      ],
+      "tool_choice": {
+        "type": "auto"
+      },
+      "thinking": {
+        "type": "adaptive",
+        "display": "omitted"
+      },
+      "output_config": {
+        "effort": "high"
+      }
+    }
+  },
+  {
+    "custom_id": "CLD_GROWTH_03",
+    "params": {
+      "model": "claude-sonnet-5",
+      "max_tokens": 65536,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term growth potential."
+        }
+      ],
+      "tools": [
+        {
+          "type": "web_search_20260318",
+          "name": "web_search",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full"
+        },
+        {
+          "type": "web_fetch_20260318",
+          "name": "web_fetch",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full",
+          "use_cache": true,
+          "citations": {
+            "enabled": true
+          }
+        }
+      ],
+      "tool_choice": {
+        "type": "auto"
+      },
+      "thinking": {
+        "type": "adaptive",
+        "display": "omitted"
+      },
+      "output_config": {
+        "effort": "high"
+      }
+    }
+  },
+  {
+    "custom_id": "CLD_RESILIENCE_03",
+    "params": {
+      "model": "claude-sonnet-5",
+      "max_tokens": 65536,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term business resilience."
+        }
+      ],
+      "tools": [
+        {
+          "type": "web_search_20260318",
+          "name": "web_search",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full"
+        },
+        {
+          "type": "web_fetch_20260318",
+          "name": "web_fetch",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full",
+          "use_cache": true,
+          "citations": {
+            "enabled": true
+          }
+        }
+      ],
+      "tool_choice": {
+        "type": "auto"
+      },
+      "thinking": {
+        "type": "adaptive",
+        "display": "omitted"
+      },
+      "output_config": {
+        "effort": "high"
+      }
+    }
+  },
+  {
+    "custom_id": "CLD_NEUTRAL_04",
+    "params": {
+      "model": "claude-sonnet-5",
+      "max_tokens": 65536,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources."
+        }
+      ],
+      "tools": [
+        {
+          "type": "web_search_20260318",
+          "name": "web_search",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full"
+        },
+        {
+          "type": "web_fetch_20260318",
+          "name": "web_fetch",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full",
+          "use_cache": true,
+          "citations": {
+            "enabled": true
+          }
+        }
+      ],
+      "tool_choice": {
+        "type": "auto"
+      },
+      "thinking": {
+        "type": "adaptive",
+        "display": "omitted"
+      },
+      "output_config": {
+        "effort": "high"
+      }
+    }
+  },
+  {
+    "custom_id": "CLD_GROWTH_04",
+    "params": {
+      "model": "claude-sonnet-5",
+      "max_tokens": 65536,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term growth potential."
+        }
+      ],
+      "tools": [
+        {
+          "type": "web_search_20260318",
+          "name": "web_search",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full"
+        },
+        {
+          "type": "web_fetch_20260318",
+          "name": "web_fetch",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full",
+          "use_cache": true,
+          "citations": {
+            "enabled": true
+          }
+        }
+      ],
+      "tool_choice": {
+        "type": "auto"
+      },
+      "thinking": {
+        "type": "adaptive",
+        "display": "omitted"
+      },
+      "output_config": {
+        "effort": "high"
+      }
+    }
+  },
+  {
+    "custom_id": "CLD_RESILIENCE_04",
+    "params": {
+      "model": "claude-sonnet-5",
+      "max_tokens": 65536,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term business resilience."
+        }
+      ],
+      "tools": [
+        {
+          "type": "web_search_20260318",
+          "name": "web_search",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full"
+        },
+        {
+          "type": "web_fetch_20260318",
+          "name": "web_fetch",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full",
+          "use_cache": true,
+          "citations": {
+            "enabled": true
+          }
+        }
+      ],
+      "tool_choice": {
+        "type": "auto"
+      },
+      "thinking": {
+        "type": "adaptive",
+        "display": "omitted"
+      },
+      "output_config": {
+        "effort": "high"
+      }
+    }
+  },
+  {
+    "custom_id": "CLD_NEUTRAL_05",
+    "params": {
+      "model": "claude-sonnet-5",
+      "max_tokens": 65536,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources."
+        }
+      ],
+      "tools": [
+        {
+          "type": "web_search_20260318",
+          "name": "web_search",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full"
+        },
+        {
+          "type": "web_fetch_20260318",
+          "name": "web_fetch",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full",
+          "use_cache": true,
+          "citations": {
+            "enabled": true
+          }
+        }
+      ],
+      "tool_choice": {
+        "type": "auto"
+      },
+      "thinking": {
+        "type": "adaptive",
+        "display": "omitted"
+      },
+      "output_config": {
+        "effort": "high"
+      }
+    }
+  },
+  {
+    "custom_id": "CLD_GROWTH_05",
+    "params": {
+      "model": "claude-sonnet-5",
+      "max_tokens": 65536,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term growth potential."
+        }
+      ],
+      "tools": [
+        {
+          "type": "web_search_20260318",
+          "name": "web_search",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full"
+        },
+        {
+          "type": "web_fetch_20260318",
+          "name": "web_fetch",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full",
+          "use_cache": true,
+          "citations": {
+            "enabled": true
+          }
+        }
+      ],
+      "tool_choice": {
+        "type": "auto"
+      },
+      "thinking": {
+        "type": "adaptive",
+        "display": "omitted"
+      },
+      "output_config": {
+        "effort": "high"
+      }
+    }
+  },
+  {
+    "custom_id": "CLD_RESILIENCE_05",
+    "params": {
+      "model": "claude-sonnet-5",
+      "max_tokens": 65536,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term business resilience."
+        }
+      ],
+      "tools": [
+        {
+          "type": "web_search_20260318",
+          "name": "web_search",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full"
+        },
+        {
+          "type": "web_fetch_20260318",
+          "name": "web_fetch",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full",
+          "use_cache": true,
+          "citations": {
+            "enabled": true
+          }
+        }
+      ],
+      "tool_choice": {
+        "type": "auto"
+      },
+      "thinking": {
+        "type": "adaptive",
+        "display": "omitted"
+      },
+      "output_config": {
+        "effort": "high"
+      }
+    }
+  },
+  {
+    "custom_id": "CLD_NEUTRAL_06",
+    "params": {
+      "model": "claude-sonnet-5",
+      "max_tokens": 65536,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources."
+        }
+      ],
+      "tools": [
+        {
+          "type": "web_search_20260318",
+          "name": "web_search",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full"
+        },
+        {
+          "type": "web_fetch_20260318",
+          "name": "web_fetch",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full",
+          "use_cache": true,
+          "citations": {
+            "enabled": true
+          }
+        }
+      ],
+      "tool_choice": {
+        "type": "auto"
+      },
+      "thinking": {
+        "type": "adaptive",
+        "display": "omitted"
+      },
+      "output_config": {
+        "effort": "high"
+      }
+    }
+  },
+  {
+    "custom_id": "CLD_GROWTH_06",
+    "params": {
+      "model": "claude-sonnet-5",
+      "max_tokens": 65536,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term growth potential."
+        }
+      ],
+      "tools": [
+        {
+          "type": "web_search_20260318",
+          "name": "web_search",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full"
+        },
+        {
+          "type": "web_fetch_20260318",
+          "name": "web_fetch",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full",
+          "use_cache": true,
+          "citations": {
+            "enabled": true
+          }
+        }
+      ],
+      "tool_choice": {
+        "type": "auto"
+      },
+      "thinking": {
+        "type": "adaptive",
+        "display": "omitted"
+      },
+      "output_config": {
+        "effort": "high"
+      }
+    }
+  },
+  {
+    "custom_id": "CLD_RESILIENCE_06",
+    "params": {
+      "model": "claude-sonnet-5",
+      "max_tokens": 65536,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term business resilience."
+        }
+      ],
+      "tools": [
+        {
+          "type": "web_search_20260318",
+          "name": "web_search",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full"
+        },
+        {
+          "type": "web_fetch_20260318",
+          "name": "web_fetch",
+          "allowed_callers": [
+            "direct"
+          ],
+          "response_inclusion": "full",
+          "use_cache": true,
+          "citations": {
+            "enabled": true
+          }
+        }
+      ],
+      "tool_choice": {
+        "type": "auto"
+      },
+      "thinking": {
+        "type": "adaptive",
+        "display": "omitted"
+      },
+      "output_config": {
+        "effort": "high"
+      }
+    }
+  }
+]

@@ -1,0 +1,669 @@
+{
+  "id": "batch_req_6acd5facd464819085bb8a9738495c49",
+  "custom_id": "OAI_GROWTH_06",
+  "response": {
+    "status_code": 200,
+    "request_id": "880fa6ef-1e07-4ee0-ae23-df52c05fb702",
+    "body": {
+      "id": "resp_006d49db8d234d93016acd5efd6dfc87d1b383cbc2c53962ce",
+      "object": "response",
+      "created_at": 1791844093,
+      "status": "completed",
+      "access_programs": null,
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1791844139,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.6-terra",
+      "moderation": null,
+      "output": [
+        {
+          "id": "rs_006d49db8d234d93016acd5efdef7087d1958e180b3bb69bec",
+          "type": "reasoning",
+          "content": [],
+          "encrypted_content": "gAAAAABqzV8s7ftg4MfcpVwWZJ4h6f2ztOt77cc_cQAH0E5hyX79mn9NVK2WJQ7epqJqGmQDVscolp-JoEjtldhcI0guTwuPJIWr6i5-d4LeAilzdN66OCChAzhNr6VdOi1i95WAtd55xrGIvjQzosMdNgIjvSZt8vjQTO0Q7JOPUXBUPLVaXmnRuIBi4G_oLOns1kDzjOEkSIzQNhVkVT-ekKCv2ICwaXsWYGCQaSa_fIRTHnlYTpy1jLRzUB_GPvTT-dDNLtObX_PGzYo127kKsCKEQK4RBui5mG6AjzSzWHp4Ud6in5LFw_tAT37bz_TR8KZMiAhFOGRaHWLIhtSspk3PkoEEIV3hodeJWNSzGKWokWyB8eHNWxLUChvkkdud_DI7lIEoMZD6HvfiV2LAcf-IaLbarA2NVpoVpNB6r5zGoVA2q-mUURyHvvmAjgZMCQIflx-8aBlYYCUNDMvJ-BRes43zXncZHWFUuFcAF-mMYpLs7bfulbehURfwEuODIIlKcM90mhxYiUUxBazSMX6ckAudH12HqTiL56JrQSMZ5jgifCxUO5uL3gLwaWW7l5uZJEhgUGp6FNsa9Rz04jTGA83hASt0gFjtpDyAT2sf0rpkmnHurwJTsMjkbb2woUrak9YWg1H2UErFLAXmHS8nAyv_h7zvd8wtQPjG6bXA8UvuGVH_lHaxfyFPJex4HrR4GREtXc9cl6O5Yr83VPzueyY4iNoc0HqTfDKuWB1HlW-URzn3YK8g_dAG1pnpajlbt0OT6HYcbuEYmNBHdVYYOUh71zxlL84dlYrEv-v-KWlWx4QNBRd3ZOTbHIPzspChAWYgxUtAnlhnhIgfhvBU6OpP2lNLT3vIy_Spp4e43EFWJa7pPvLLUuHmEN2krIERMtlclWzZ15TA6v65kjXB_zF1ZNc9RfPDv1PBJzDM8qi5d-HcJ_CktbvuxDj_XDPyK3_OxgnYJSzN2VL2zppb0mx8XqWykXkvOu_ckQ8a5zly3tDDEJLy15heITEQNa6VeOF5Oph7T7iun2UPntyPQCCoPQVt3QVD8t0YtMMiRLn8xRDfMZB6BPAkjYsY5moo0dQT7kByv5fDfqUA0_K4BI03xUrhKN_6qMNBpJZ6Vu4j6kTHdZKhY6aesg6ZhQ-yQuYCazDrrT1C_id9Ii1HA4vlKfoJvkDXCnIpRhjrrFdnXDL5u3ykOZCOvTgB_qm9NSHntnpk7SjPQiiy2qZfucbO2BS_454l9HbgXE2qofwT1ht4xs47FWGKTE2xnotTtyxQlROzP55Xlv6R4pe9RHmZVTxEWQEJgsme5HlX3MzCTwy5SZQz_IlNoowSqSWhmNjpILDDwUQNIF2beBSuHEhgdsF8o_w_TuDInN5PD3gcAGOsRq3nOOaW6UBjzuBVFfFi86EKMQitK9u765urqGt2akw6yh7LBOevxTZa7j8W6h7AZI4T1-z43fAElsUKse3IPixP5J9QM8M5SDzjHiyxd8LeRa5Rt7ui6KootsHMACQAKc9KikvuTm5_3BWeHCHVQWY-99ujSPCW_w55_IjJtlsnmJBHcB2oWkIMSURJp0PBQH_wjuWR8psRYvoZFkreKTU5fMOJjlB40nyj77HaqcgBkNdEgo1jS-nM6sktnECWGWs_5mTVbWhEEtxSZlCWiOkyDJrvcOYmrFGaSg-32iZHR6LyNVIDeHXwWZrgHN90bgOCV0gBDxEp0H32e07Q9si0bJYDD7ooMcyropT0mnBJv8KgKcqMrZu3xpiGtxMTkhVDi0eyURq3QDu1o7lD9BX73BZIw8PiQKS7JDxQhgz-TYtrztdo43Cxj4w57iynZrDc-otdvDpJtOd5yKPfvwWp5Z-rqQTFeMDkokIx_BB0g3KjWDrcBrookWIWdaZSObSXI86AtEYt0chT6_F836z6sVhnwML4I9_ybF36bqpKdEhhT2y5JG9RUUomP7g_5z-UeF5QeCgfTtmpbzKnnFWt6uaMfewGbBSIRgqBgZT44_bG1MdmztOLGTUhPfBsn_03abH2ZPPiqWA594RZHtuO7SNgeG8lF-aFhIxsQLfRQ9e49jq6Hf7spd4r5wpSCJc6NqSxJ0kBfjI6gYZOY-PAblANs5DRBToC-5_3FmUKenyCbwIc0Txb8TBe5R8lQUpEfWm2LrLmADoIqzznHv2qwyjfZ0Wr6CXrH_lRZYOkLGBD_03x2LlA9FxAf7fzbLLr6dBhVUZA-6QGpzmJWrIcHuouPyw-pEzSSTOjEXx5p96XQWk6rPDvNvHRVsciPmWq3IOsI8V4Ri_3rMi1",
+          "summary": []
+        },
+        {
+          "id": "ws_006d49db8d234d93016acd5efe7e4c87d19a3fe8797ff155a5",
+          "type": "web_search_call",
+          "status": "completed",
+          "action": {
+            "type": "search",
+            "queries": [
+              "Microsoft FY 2026 Q2 earnings release investor relations January 2026",
+              "Alphabet Q4 2025 earnings release investor relations February 2026",
+              "Microsoft 2025 annual report 10-K investor relations AI Azure capital expenditures",
+              "Alphabet 2025 annual report 10-K investor relations AI cloud capital expenditures"
+            ],
+            "query": "Microsoft FY 2026 Q2 earnings release investor relations January 2026",
+            "sources": [
+              {
+                "type": "url",
+                "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm"
+              },
+              {
+                "type": "url",
+                "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm"
+              },
+              {
+                "type": "url",
+                "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast?_bhlid=7f8900c7eee8fe627b428afcca84baad97ecb4aa"
+              },
+              {
+                "type": "url",
+                "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/msft-20240630.htm"
+              },
+              {
+                "type": "url",
+                "url": "https://news.microsoft.com/source/2026/01/28/microsoft-earnings-press-release-available-on-investor-relations-website-28/"
+              },
+              {
+                "type": "url",
+                "url": "https://www.microsoft.com/en-us/investor/earnings/FY-2026-Q2/press-release-webcast"
+              },
+              {
+                "type": "url",
+                "url": "https://www.microsoft.com/investor/reports/ar25/"
+              },
+              {
+                "type": "url",
+                "url": "https://alphabet2025ir.q4web.com/investor/default.aspx"
+              },
+              {
+                "type": "url",
+                "url": "https://www.youtube.com/watch?v=mIK5-yi7a-c"
+              },
+              {
+                "type": "url",
+                "url": "https://alphabet2025ir.q4web.com/investor/faqs-and-general-information/default.aspx"
+              },
+              {
+                "type": "url",
+                "url": "https://alphabet2025ir.q4web.com/investor/earnings/"
+              },
+              {
+                "type": "url",
+                "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/performance?msockid=1f674d42c7b965e936735bb0c66664e0"
+              },
+              {
+                "type": "url",
+                "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/0001652044-26-000018-index.html"
+              },
+              {
+                "type": "url",
+                "url": "https://www.sec.gov/Archives/edgar/data/1577526/000157752625000016/annualreportfy25.pdf"
+              },
+              {
+                "type": "url",
+                "url": "https://s206.q4cdn.com/778281998/files/doc_financials/2025/ar/2025-Annual-Report-3-26-26_to-print.pdf"
+              },
+              {
+                "type": "url",
+                "url": "https://www.youtube.com/watch?v=URIsVKPmhGg"
+              },
+              {
+                "type": "url",
+                "url": "https://s206.q4cdn.com/479360582/files/doc_financials/2025/q4/2024-annual-report.pdf"
+              },
+              {
+                "type": "url",
+                "url": "https://microsoft.gcs-web.com/static-files/9640e86d-a99f-4502-934d-1d3c883fa786"
+              },
+              {
+                "type": "url",
+                "url": "https://static.poder360.com.br/2026/01/microsoft-4T25.pdf"
+              },
+              {
+                "type": "url",
+                "url": "https://fortune.com/company-assets/1500/quartr/slides-2c9ea-2026-02-04.pdf"
+              },
+              {
+                "type": "url",
+                "url": "https://www.reddit.com/r/BetterOffline/comments/1vculju/from_microsofts_most_recent_10k_they_say_it/"
+              },
+              {
+                "type": "url",
+                "url": "https://www.reddit.com/r/BroadcomStock/comments/1k8r7l2"
+              },
+              {
+                "type": "url",
+                "url": "https://www.axios.com/2026/07/29/meta-microsoft-earnings-reports-ai"
+              },
+              {
+                "type": "url",
+                "url": "https://apnews.com/article/7afa082a178c36520dfc7a7621fe2397"
+              },
+              {
+                "type": "url",
+                "url": "https://apnews.com/article/57409189adf4776d1953a06e516e0d7e"
+              },
+              {
+                "type": "url",
+                "url": "https://www.itpro.com/business/business-strategy/google-alphabet-to-spend-usd10bn-more-on-cloud-kit-taking-total-to-usd85bn"
+              },
+              {
+                "type": "url",
+                "url": "https://www.reddit.com/r/dotaddaknowledge/comments/1wma4u5/msft_cap_x/"
+              },
+              {
+                "type": "url",
+                "url": "https://www.reddit.com/r/iOCharts/comments/1vay4ft/microsoft_just_had_its_best_stock_day_since_2008/"
+              },
+              {
+                "type": "url",
+                "url": "https://www.reddit.com/r/ValueInvesting/comments/1t221i5/alphabet_googl_q1_2026_20_revenue_growth_and_the/"
+              },
+              {
+                "type": "url",
+                "url": "https://www.reddit.com/r/AsymmetricAlpha/comments/1qx9ofm/alphabet_googl_q4_2025_earnings_report/"
+              },
+              {
+                "type": "url",
+                "url": "https://www.reddit.com/r/earningsdigest/comments/1qw9x1j/goog_2025q4_earnings_call_summary_feb_4_2026/"
+              },
+              {
+                "type": "url",
+                "url": "https://www.reddit.com/r/SECFilingsAI/comments/1mdi8k2"
+              },
+              {
+                "type": "url",
+                "url": "https://www.reddit.com/r/stocks/comments/1qpo7wk/msft_quarterly_revenue_813_billion_up_168_yoy/"
+              },
+              {
+                "type": "url",
+                "url": "https://www.reddit.com/r/PocketQuantResearch/comments/1ml75zn"
+              },
+              {
+                "type": "url",
+                "url": "https://www.reddit.com/r/EarningsCalls/comments/1qwjp2o/alphabet_googl_the_good_the_bad_and_the_ugly_from/"
+              },
+              {
+                "type": "url",
+                "url": "https://www.reddit.com/r/google/comments/1qw6a2s/google_googl_q4_2025_earnings_results_beat_eps/"
+              }
+            ]
+          }
+        },
+        {
+          "id": "rs_006d49db8d234d93016acd5f019d9887d19e2628fb03c39633",
+          "type": "reasoning",
+          "content": [],
+          "encrypted_content": "gAAAAABqzV8sGCdvqupek2w9UEC3Oz57b6f33NosneMlFv3utEMVXARkmYreCoNWn4l6-ElIOLFdDoJRTJT9OUH6kYpkhhUUS5PiMLdJcBRyGrOYBxSM-Y4RJKz5zkGKgP00y8MG6UoxJ4IH5NSYCMhts6qf638bQp4oq6PVoXGXfGgzShp7kBmCUvc8STaRtDEJf1qqxWzkgDnlcB9C6wgDHS991WvcE_dCZa4b4txOj52yfvMWrEEgf3tLRSIDKnDA4DAgxRQ3sHMHoSfBM2qlGb0A5lGy_1KKAiNUOfoTCEu4yyjkhjSulJRofdjX0oLOZITvLqtpxWo1dH4MLTG0A3U9mipK0ktlkNtf3vbVmagRfIzQNNGdxPBExR2-gjlRfAhXpNS7BiT4-9Ho9IL0AisW-NzKGdHNxYiwX0WVOn_1WpebeRPN08jKUkQifFyWyQf9W0Lv-W95RmNRbQTXW4PIK8bVyHyLkkdg1QHf633SL4JqKa052uHGC2_9tnqDZcnSMGr7afu1Vg2BWx6MlkkQdVcd-tMlDB8ZeUzOxsYepU_W9aXNeTOLwa1AySNdRaY8MwgQ3XLh9bVqCTXEG9zK1sY6hb9teHVlr9ukPF2HcWOQG9OiRC7LTBKTyYRLEfi4P9usqONCRLLbGBhCBMuO-2l86kq78tzH9AewuMYQjZiJhGM5FKiWWr2eMyxagptasA-9aSgkz6bz_f6rF2BJrgEBhePQWnn62PSXKAk6zgNLHQYEV-RNsGZGYZuti2h2NFZNvgn0TLbXxnnOQew8ZQHIZhGcuEPjynyUQgY4JZpI7T8i39f4k6-eMtIIEjesxhLjXfhMUPKMuNahOubz6rkskNC_7Dcxfp7-gknv02zaCdt9FQWMrW4S-fSRvqlg7H91C_BiACa8CoC1U_3WtkKOwJwEx4cvWfzxCtsd2FQ4V2l1ahQ6-Jsf00rO4k1YLMkfappwNCitmh2V8g9iadhO8l4TmjKznyioF9iCfNb4g5bqRog0A8p8CHiL1AxPCVoQEOiZECbW3dSa2C5pl9cexypo3TckV8eMQXMxHQYdWZAXIBpWLtax1_5lvS9hRYPsmIIkaz9jHD7Tr5TJsuBznPf6zxoZhQAJONvrGnMyisEtCNDEad-_rGv3wr0t8WbZqFv0rkfiz3uj1l2hHKYyjyvg7v5Vz4r_GMp1kjqz42XaHAGPjNfX4J-cE7nr70aDqzstHSy2orLgIiMxwDiz0yT7THMVUitHYURMGMevJ6yroMUdAVYrw8QdTZ7H7INKRwAhfiVdRWyiP8osSvXa9GKptfKfnQuWRV1QYi8BIlmhqnxskIxc9FidShDD6iwGQKZjOxLLoLKxejMuKIaOtrOh-H8_3zMXrCLCD1Q40pHvSW2o2I_nvr8KeSEZXnu8MyfUiQXsML3z8C5e8iEBB0dF9NMasw95pX9FxXQsCljTIgNzwePgMNYDtBCJCEm9HW-u5TC1WHcse27MbVQ7WXsPHWR1XM9_X0Y7ZY98bpiBcINgFR2vdP-bBdDnWE3U838QxkJ_lb6MEBXsEsde1Uy3qqLL-a0xxB7Ga1PhG0pS5m1MTgka47a2mHhhPCCxC4q4oY2uMddQkvOIUwDsPM_SyTuQKbE9noc7Z9F_PWWiE_Xe57ulWe2luB6PpgOk-SN8EtpHqm5PR3EBSea7gqIwUTYHXywhw3zGzKkhTSbuyLkqSEu7SmMhWKDteM0pjt9iRCIEn64Fl-CuhrFobMFbsOcEAyesqRzXD6940kkdtgywPYTz1L1ao_Xc9NSVAHMvqbUihLT2DDS_EEJC_yx63xgiyJVz9daicdHQktuYXPfZPiFaofLrWtzlBVtyx6gYIahAZlgUCytIK30YYQw_W5vuz0kGhAyNC5jI2JPd5PkM3bGCdiicjTpJLAa8X6k334ABtSuSBNaSDErCStZv4dbghvIzmD7W3ys7CA9rNX2DmZs33a4Lb3HRe6zx5EnZvizJhvTw7ngm-mkKXbb-jESdtD1xvIhCXMm9YXyOqIIJl_eDoayJAiVzIZede-j-ZAcyBK23O6IOtiJAwxzo0lpfGiTBAGMjLAhQMOm5VHVjY1Mh9SBKOJiiaIH26a30yNzFRPy85q9U1625K1AXzRNu11ctltTo5NhQNFCkth24MeNbQ0uI-kknChxC8siLo9UjxISZpnPqRQtCSLATpILgBH1Dy05keHT6nONWBR7PuDDqLJ2LuTqVUhqIwU5ktJ1VKISynBRm8JoFVF0AQcTyRRhxS-SKmhTQzOAd2VwojqBvtQwmU_Ncox7CFonnI4VtpxFZz6HaCO61MP1EzDczGNVRW5Y1GWHvVFWiStltqP1tE0bBtiarbRrqFSBknQpurOy74-OWIqdiyAwuOIFDltTqMdXO1iCvSyvvoOwD1vSVaG_I2o-amqnyE4YBK7sat-JEI5KhfOVgmO2V_v5J75K7ingEMWBmZaoKezqOziKrSmAk0HiA0xw1QFt2c79955xXH_r2GD6Qr78Nac4Q6g0IQYPqznLlaJVnwafCkZ-2j0_vWO8d4pvQOAdCeFqyQBrW7m5tFBdLiLX0YESSWXei_3GJ0U_gUn8n4oua1HdTxpKMsPYDjJ85qN8bisOLcJ8do3A_gWslpf1qU5K1ly3stSavNXI5UnmJhcPihOalnQPZLocrJVh7pP5ZUQ6CRuqvvk1ArGw_27f7rHdl69p33LkGxeTabP4fAbHY9an2DelD8Etg63DjpEqDenzSi4vRaedNU3rmDg==",
+          "summary": []
+        },
+        {
+          "id": "ws_006d49db8d234d93016acd5f01ff9487d1b54c19af326739d5",
+          "type": "web_search_call",
+          "status": "completed",
+          "action": {
+            "type": "search",
+            "queries": [
+              "site:microsoft.com/en-us/Investor/earnings FY26 Q4 Microsoft earnings July 2026",
+              "site:sec.gov/Archives/edgar/data/789019 Microsoft 2026 10-K June 30 2026",
+              "site:abc.xyz/investor OR site:alphabet2025ir.q4web.com 2026 Q2 Alphabet earnings July 2026",
+              "site:sec.gov/Archives/edgar/data/1652044 Alphabet 2026 10-Q June 30 2026"
+            ],
+            "query": "site:microsoft.com/en-us/Investor/earnings FY26 Q4 Microsoft earnings July 2026",
+            "sources": [
+              {
+                "type": "url",
+                "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast"
+              },
+              {
+                "type": "url",
+                "url": "https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4"
+              },
+              {
+                "type": "url",
+                "url": "https://www.microsoft.com/en-us/investor/default?t_id=c1279321-5415-42e0-a945-b4e9b92fa7fc"
+              },
+              {
+                "type": "url",
+                "url": "https://www.microsoft.com/en-us/investor/earnings/FY-2026-Q4/metrics"
+              },
+              {
+                "type": "url",
+                "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/0001193125-26-323660-index.htm"
+              },
+              {
+                "type": "url",
+                "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm?aff_unique2=%2F&aff_unique3=t10tcKEC0&code=%2F&testcode=t10tcKEC0"
+              },
+              {
+                "type": "url",
+                "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/0001652044-26-000071-index.htm"
+              },
+              {
+                "type": "url",
+                "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm"
+              },
+              {
+                "type": "url",
+                "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm"
+              },
+              {
+                "type": "url",
+                "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/R1.htm"
+              },
+              {
+                "type": "url",
+                "url": "https://news.microsoft.com/source/2026/07/29/microsoft-earnings-press-release-available-on-investor-relations-website-30/"
+              },
+              {
+                "type": "url",
+                "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526259954/0001193125-26-259954-index.htm"
+              },
+              {
+                "type": "url",
+                "url": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000073/10Q06302026.pdf"
+              },
+              {
+                "type": "url",
+                "url": "https://www.sec.gov/Archives/edgar/data/789019/000121465926011511/o91268px14a6g.pdf"
+              },
+              {
+                "type": "url",
+                "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817926000342/goog2025_courtesy-pdf.pdf"
+              },
+              {
+                "type": "url",
+                "url": "https://abc.xyz/assets/cc/27/3ada14014efbadd7a58472f1f3f4/2025q2-alphabet-earnings-release.pdf?pubDate=20250724"
+              },
+              {
+                "type": "url",
+                "url": "https://www.sec.gov/Archives/edgar/data/727273/000143774926014055/cdzi20260430_ars.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "rs_006d49db8d234d93016acd5f0405fc87d192ff713b48e0fdf5",
+          "type": "reasoning",
+          "content": [],
+          "encrypted_content": "gAAAAABqzV8sD-rEd2KIqRTKhzCNDNFIGNgUq1EL9SpciqjbtPfQsOmYtUgZQHZAsgkUjfh31N3h5fO9jUMKzrgrJBsPE2DAf8WUJUxonNHUTieqAle40qJw6CCVvyAS940aSt-G_wyVb3sgSpynzcrYIIjpss8nshiiOhnKQAgo8wO_j8LhVZyQYAn_ERqIUUfNXjQPpS40deXFKOqTtE8ckRHHd-BvsaKaGzNAuaohqCp3wp_NGdZcSIgcBYhKHTXa05RLcn32Nyo9kBMVFOiXZrT5mMi_G0mSmfQTyASBswEPohhXvozcEcBCC01pWUYWfgTpVv1FvjPHeyQi1uGFcCEUSQiedOCIikgSl8zJ3z3QVEosCZbfNqOfpR5sYycL_ENoPGvoDfEkJH87SqbAekvh2tvbCAAb_ZJOdpZclEMgoloeGYqghTwoBU6nRJqyXunIsGa5U3_hMEeQIDKmFpJce0yIDTjzaVrNnXIdKoRqli0EdJPog1rB0hWkfsayyg-MX5hkL_2CqiHNydmhcm6PzT-h-09a2I_hU47e5YoZ3w7txPLbtzjaqZkaK57_6Lco3xXTc-8Sv4Y4VDZnV1kchUNvjNWGD2wLULj-NaSUKVMVXHXwQBF219JfyBz2mltv2qb-R28Z2KDIwhzbDNMA2srLFan-zCglhI1OQtv4EoAZyfwmGZK1u88aC6nqulqtJr9hBzF2g9b78Uv_Ytyi4PAGYmhuDOp3AsP9vqTsWeSfqdQT9kgflxIAoAP-qpW30T-pNwQ6oS0b9AlE-z88SFNG72DDaulzVLpPXwd5PetZ45nekj5-kTduYbrdlc04PUhEcUolYAcc3pYzB_q6JnC-mYO-maNUSWDj1CoU_NDSuRcvVOjzoKZmD6ms7j_Nw7VOXAu1QygXmUPs-fPDEHkXcT4QVrbTlJlLhbC8rGwrHC3eZISCoPTZB9sosoTuenI7euFfdQ5w2pMOYpxkJuDCTMMyPuWfU94CWfkuxADsGDLoo1XTscysJpwQUNhwMg1fYBqoeMSeN_GZt487d2iQz0s8CKMqiBt11WVofpJyuyn0d3HaDyi1W2Hr3VlgMj3WqeAg2y51x-1_V9Wvq_zxIwLbnTKugNbdq2kRV99UrDCMxmmXkn_a88UnUKWYMIBwuS_zCygPyNkrACVRhwYOZ5Tb6s_lBzNsBd7IIY9m5896bqZZf8zE7fmQEOekq69IWkR69MXUpjlyPinve1KdxrsRj4fiCS3HJD396bMGfMhUFJZtX8IiPcsNT158kwznItePylxt07ekaJTTDOySy1odIUIJrg8TjMmHZae2STVZuLGEwsTLP4buNKNGRx67Irjq8QYEfggAVyV-F5GnDf7W1ESBQAuK42q5qyRF3Vrl6pmB_rFl2mGoqlIPu-XdLCkw72r1an1qfn2_eI8VgKl8xFCvyizRwW9uPGbo6eBXBnu0U7t4QU7KYG4E_d8q8y6uM8hQTqPV7b6P9YMVEtqU6tic5tZw94PY_xvSZBCJFgBw4uIIB-jEkAUgGhJucycfvLVkSGU9zFFdPxB_tUamWwUmNaat4lYY1qLduab5DcL8Mdx3OFhzZZ5YjuqOib3eZMxGpsM2to95UEet8iH_cexgXu9R-yGsCB--hT33OB7Ta0_QFbaL_AOrP5hE_K5QKHp1uS999PdsFk5tCow5QAot25mIp8ba7ybZM-C8mQkicAFD1gZCmXlUGtjaLYzAb0SDxRcsZIygErTy-0A9GgBnSAd1KNzbDGqeYhuH2zt2PaHXK1MGuKI3ZXzHF_KntXuifGShd26x6AfHbYgJsPWw27xqCbU7ag_oyft4SWKcpyV0LnPqdFO8YAh85tP15-SHLpale2LQFR211bUwpmkoxUSYpxbyMB4OT8cYJKaSYHz8ZRjxqqUt5HPIuktqiDpikb18w8x3wmEhNnjwg_wr8bJvXNXaXQZNi1LTZjo3K4evz5TzyS8wVbRqpAszSy7hCR9bT4If8axwfWu7gUwhN59QqvD39sbyO3hq9_40anECu8JnuHswMNt_Sat_RwgPFlcxAfk9Yklb_YFfPXVgk_gfz_K4c2-D8L0LLkE0WVDpp3cnlE-vbi7jEIyBrhPbBDwcbsesMRSQiYqaZDPIYxsX4foST2hy2epHiQoU1ycCbMBS6KKvPRIm7q_eHywc8c89a5RbbB3nROu_cHhHbfzaCbAxj811zrOcN1CRAI5S7kaLuC2Hx9B2fhb7m5nYNSkQy-w3aHlg4rDW6mPE_KuAv3VSdjpBrGseoXzRTMg4mpK5YvRBPKU63XgEZ6AA-m43aTo8rwRtLOfkIE47-34w0i_EJKuJBtKOAqqenjd4Z21jsfCJUfNB-DkPXU1j2b5flZI7zRwzr5pP_QUCUVeXL3VFw5fHoaJBkRbriyInMUAR250NAPN42PugDYDdkVgdQZOoUesdoUyStd1r33TDzk4dOVbaX8ITvbWPoqUAd8-DRPGcsUD4-WIF_agcJWJVKZD_BTAwUFyxnhzwkN3JTnizvab7l_s=",
+          "summary": []
+        },
+        {
+          "id": "ws_006d49db8d234d93016acd5f04b4d087d18286accd275adcb4",
+          "type": "web_search_call",
+          "status": "completed",
+          "action": {
+            "type": "open_page",
+            "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm?aff_unique2=%2F&aff_unique3=t10tcKEC0&code=%2F&testcode=t10tcKEC0"
+          }
+        },
+        {
+          "id": "rs_006d49db8d234d93016acd5f0590c487d1b853440daf8f853f",
+          "type": "reasoning",
+          "content": [],
+          "encrypted_content": "gAAAAABqzV8sQwfT0gy-bOGXsxWB_hW30zUEXMd33OMDvIDobruZGv2i5cAbp-cMgAvLvvjGo0i2Y0b169Ep-bLAnaibTCjEZnVNo5SlMVvbvYIixoRXpkhjkuAQxfCqOAV5CtSgtaFuRHGJeTjNaVWgmV7MHmCW7olP07rIi7b4qKRqD2AO8mDHwa92s8mBrXLj6Yi9IvJUOyBEwEmN-GP58CIpaHwrbTReIyCqxrQTC90JKgJuRXZZCCPGaF-ZEKDB9wX4RPd96btKcgQ6yaw53o5fDW-iPTOeOBRwQTDlR5f5PpwHXXFku8vb-7u6L50lm-Hh3WPkogGxfmTwmfkakA5us8xjq2Q95y1GkyqqYzOv9a0Pnl4juXHh3srIP2Ww7a-jYjkq7djbWQKaohrsfUFEFsZQ4s80Ga0fhJi6vT_7YSGU1GQFyD4yMgU0E4Idlyx-ZVQTOcKw0Vpc-Z8pUKmC9WbgPO9TeMuIaOHh1A7xmc8YMgpnOOJERkO45lZLR5FomSRyhkRBAAc8qAG3_vdYVIlLlxhqf17E2SfiJzjCVG18QjR2e13NeSU2GRqdgn01iLae_oUST5hLkdhbYbQM8IJ88WwPJTfhgR4W8mFvKP8Y5pPJyJd1w9xwJaUeSKnParxMu-ADan22y5AXvpsM9bPQGH_Gq3BhqS3SP5Oj7IuI00QKtibQZU01WkZtu0QZLkvUYxnEF1UmsM61W99b8AWJ0ciBxE_Acko03sWpchBZVADPFHD_dYJpsbw8wHcFg5VUcbQysNEASPHIwDRr6IXgsLgWLqiGtx4Z8d_smSOC2rab0kaKc0LizaWs-4GKQKyPgNFwcYGCAR_FeFThhZas5vDi_FHcxlYymBIxfVe6Xc8zoFNItuTQTOI8T9K_ziyqUY18hfV8cHuEidF3RPGKBFkHdeUNSe619FYWwJnGFmaMXxVBl9JHN7hBJyq6_Je1fZD4gNmfUAKp-8Xiy1WMUThzGQ2q6EsC89Cg_ZqndXR5RLrcekdf6rtgr33Kq-vUU4PkhpUaIEl3FO56gtboO0jaJb9R3IQXxkdciONme31XCKo1gGP3y3Vep1g1WVlEChxSsGKvjLT3yInfVj9c0WakG41J7tZBDyHv-pA4e9D_cj4PWtQP0_xjOhfZjITfpZSCbti4T7cGTwbkK33kXV-ObYTcwqIsZv2zI2jHrsUk0VNnaY6pdCSac0sWY62vWVdqnXnYp3-J6EuKOzf0TjGlj2Fer5y6oA-xRssFts2sOlHnK_62X5GE5hmig3JDfY5yqwNmfnpBbMnkY01HOUifJyAGrHwTzvYNaioA_rwi_RcjdRI5x2KS57zIAnhklauZrzYaHNQR5jK55LHqDzN4GvbMokb7WhN8rbDKpWZrH2Q0KWZA5fpAmLrghtgMdN11TM6jOrD1BjRaykoVzcg_JdNkx1IQGx2RuaASRGkyCo3SAoWzsE5ItDLnUT3LfyoR3AopKFiHA0UIwE1zNrFjZUdUrhcrVH9eEVzx6vfLFrqh368KLebB03mDIIeix9HisIJs6lMYQztdzH_b6q99EYtLWGnDj3Rip3un1oabCXsDK1XIgV4VbFJ4P6Ydqa--I9p-snvbK-sXAopE1p4ZSXnN6gcuNEFu9nMoRVQlwroiH7ThuHPDBMcndq2zgyGU2WWoiJ2KfSXnc8RqYwPEuCeTkdHJICZghdDrdipXkPf0OETGId2G9Cz_B10HXdRWONoBfymZH4iqD7lkCg==",
+          "summary": []
+        },
+        {
+          "id": "ws_006d49db8d234d93016acd5f05d85c87d18d528bb0c24797c5",
+          "type": "web_search_call",
+          "status": "completed",
+          "action": {
+            "type": "open_page",
+            "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm"
+          }
+        },
+        {
+          "id": "rs_006d49db8d234d93016acd5f06776c87d1854e365df7d1c9fc",
+          "type": "reasoning",
+          "content": [],
+          "encrypted_content": "gAAAAABqzV8sVDeWO3SgJPAfCkYlaCKoS44WThsv8EYVsmEs7OmkGLNQlDfFWm0Bm7BO5EoKLs7jpD44Mzj1AQBpDD8PCRy7m__p_yubZvK9X91Bd-k3kQTeFYtWCmNNhY6aeAGmUWoFNH-mwy_GJxWqpuFQoUPokyJTooxVmag0-JZbl33B_ozyPi5KycmQ43cbIN7-clrF3SVvj1I7G36uf5fEhGInP_xMHCW08BrRmdHX55ZXtsMHWE0yIuOKrCswVoixLz6u3XFWzHK8W2ej-IGidlpSAycbd-adc0dkZtudfmH3wbRuWkK-EWO4mH70xyrjjrg9h2Ot0dIyzA21k2d7etNAjTlphTs7IR0o8brdNkcHm4QzU0GQpR75AOAsTxjJD9XamjvxkOIiKOn0ZF5FmWtIVg45EqqLPvxERDCIlWC3cVOT-DxxLxrbOo62XZStjvxpjio3eL4ZclvdnYvviqCLGdE9F8SybFwlkpl3nnK6i2kIY0Ng6gRYpyf2FRxPjRNrW-wDF4E0pBm6sC8UzMc3ENSN_0RSDVIElHd0423CpFMHOt5EYbZ4hOns44oC2-jvtz1Dp6eHZ89jMkPI9MwtxklhMr7OhFIMCBEQL6FaYQ2AEdhXxERZsEUjjgqQpsXi1sZN-qMzEJ2F9hHSqr85Pdhad-5b_4VAuqGMBZ40cVQMgUgf-yr0hitjUkWL8Zfgp2b4aJ8dZoNm7B4awC-rcfyOrHtsB5eyl1AMJ5e8Qy2JA3rVw7E5F2pc1wYBC233FVDzkr_CALn4sRTeYezww3hGLOdq09r5nL8cfve6fMurn2gA2uAO8IrrSoJ5k4kbv_aFqSRFonOyPFy2b4ToCk1H-WnhoeqHdVUPM19SWPDDxcbz1nL_E7tnAOM0sbGaZuVq72k0ZEnqtgtO49Z3L0PESTxORdIW0SjLdHW2mOyCb4OsZktOfiBPNBo7iTyNeXB2g_MT_-LRuy7t5BPcWKvAZybBhBbLa6Hz1kL7gEKgOt4sISBWcMNIDeWY0wX057ECxrQGziGFOujnikTFd9J0mK-9hhee5eUiWNmVxwGeszotW38Cjy3HH_KIHpiEAXuphkbzzj4YCC4wijGJcGXeR8RZWiWI-gRfcFuVWBQNOU9oYyMYoRyHcN8s-Zj6PsdCYatF02vKBjDKwQbTrVyhO2JZObA3GGxBbURKxnKqdx5BugHbm7jxmhX1hG36aRHvtAdh2-_VoH4Zy_jKXzakDa_qZksZOgNXY9aRzekJ3FFI0QgjXfskRCfCJmPnEPuXAInWEyWo7_jU9FqhJLFRYDX9oiL0wrn1Gh3iFfx2LPp68XvpsPeGbCKYL-wfbfmcmnepo3ZWQ30YBSfox-R3i6sWrpPVP70mtt0BM5agRx72F4eogfR0L__tI8z8I3AZSwL-EAax2um6Quc8jbPPg4ZkRoPGc3--_CUofxnEObYi4VCLIWTNciLL-M-mFezGAw2FQOQKSIklPnsmSSPo399AzMfh7wu9JQX_sogVNTBSLaYL5ueNROyIWFLf4_6WhdyPGsiyZaaTHhGdciKcYOqpIBi4T93HEulK7K80NLjrzkgOGEUPnQ_9OCmbmNSqOdHs-LaDxAD6h-aHHNsC6WMVAjagTMWsYsz0AgM=",
+          "summary": []
+        },
+        {
+          "id": "ws_006d49db8d234d93016acd5f06a2d487d199035a95a4ab1b6e",
+          "type": "web_search_call",
+          "status": "completed",
+          "action": {
+            "type": "find_in_page",
+            "pattern": "Capital expenditures",
+            "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm"
+          }
+        },
+        {
+          "id": "rs_006d49db8d234d93016acd5f08298887d1a0068fc96222cf93",
+          "type": "reasoning",
+          "content": [],
+          "encrypted_content": "gAAAAABqzV8sJQhHwjjgnJaefG1rqun0HXi5mEjCiot5YhLmX9obb0V95d2O8tvisTwsw-_wtj9XIrIPefOXW_DpzBpLRPrr67v6yrpzOe029UOhyLOqUXzx6YsdUKcTwaZACijgCLaUPeqxWMM3to5SKGK_IdHhu_jEwsxn-7LPAq7_YXPQQlr5QrxC_ExPv8Qq-rWS7nIOXCDHZWhvT3I5cLtkc0UC7e_uSaqb3O2I8oAVVdl0o32tGTVvGzVOfSymgFgKq48H73mC98YUL-pd8xEILAOvaRCk_siTZw6r34Wej9bCuiQwcnS_C696Cv_tUr9JlFwGjeWaVNcTanshDwQuMrpUwwbb0cazcQWWjtznjuPXsMeOwFKa7nD6dJg5tsaLxyfyplVN18sNfTC6ctiSioS2g-1fNEIC_kEeBCRnTqqP7neCzRfZKhjDFJiSNsDKfVeEtXfFc_cOkHclmX5OFAw3mwKasqEVEJQ0V5JjiG1wdVvci11NnisaP2vafFqGIMaUF23ppqH8sWJXHVCz1l-BKwYsFHXbvHWgWmU8t-FnBO6FJCZj5B5ZMPrryjRmEV7OR6ULvZytoFAHGhFf1JoAUG-8YxcQ8vfXKxtwSzCp8eyp87nK2kN9GI70psAbyC1cEoMdpWu0YVcGEORz6tjLQmmhRzrYOooYGpCEWggon4SHXqURq1Y0wNv58LdFjI5deGJSPHeCnZJrAM9cQBPvk1dVU6M2X6fhplVuypb4GIDcu221bqIXbk_Lrz4_NdzgfTYmshHHok3tptPaLFmc7tVH-_kULND9qlsu9A4KoaS_FoPqB3oTLuPP_eb8_SjYF_8FOcPjPjizMQ1Gi3CoyynciQfkWgcdkLLwnpNuo1LTm6qpYJrwWQ-_daOAc8kQ4JcgknkH1v_5-C-g8toFHRzFd4x7VfsSgw8kBxKpEETmb1r48prJeS0Z3tgWJJYZ68iBAoi3JdBy_5nj-uee0z0xw6BKtCqUoXCupHL_H1XNBYStTcMu_DXrTDjyxd8o2ETQAG_EHf9oYlsUz5dJZD_41X2WJOKn5qAbS_bbtz9ImpFGXMVyEe_H9ZSY43rSOIhVtd_Z1WD8nE70ItfKS_G3W3bofklHaVWy3ivtky-Bd1B5hGNXr8dIuvNNqAbwKdMVPXlY_RsMNNMw9-WmJcrv4xlEKIqLkYfsG40COp0dUMiYLzkdqfklod1_UsTXjwIBLvB5tdyZZS0MlZS7opX_0H03rBEtx3O_JMkwEfAcH0Hz9hUOV_g90taWv72eEUhkdJeeCwCL-d8N5Cf52tezneibNKM1bTAD_cgAofi4p0XZbVY94pedlN5u9wfq_4g6AZ3dhQVFI8dXFAFHQv21I7y5X2nLwkrk6LumhY29tRkOYdslB76FPYYSL0HMhYUefjbu4c2j-EswWu4kZRDm20uLdlKaF4JvSFQXDGfnOcMkRbGp9OTAYePSew3q4CUmSVkqbznDxuk9YolIQ1X22ovAPmCNeWQxiJMiXg4sLiULXaw3E82t8tBnuIOtbanYPNuLRLt8SZJUvKJvbrj1dxEKroFPlCpNNdRnYdXJSKVVwvuw7GaTyJZdztDBSljyDwLc9vbFj5tZmCSXzRKuvaJ0OALHgR9nhbGKIljeMuXHYpWhi5Q0SminiqvdMiYLKG0iqTwRuJE-CuB1DcLfNuX-UbP6rFKBUDE7yj4JVJRYPXAhzASPi_lonTLIzOn54AnJSmkwhkbtFy_Mxy2CCgGw8BSV1eWOqOzmDVRSopS-QqXUZhpo2hu2wpvY7ca_etSHBlLseiwF1roH3cXkB8J6DbQZdKHm8ncs-noykrTRz6DhHrLhWRMsIUWi5T9oZMEkrNLI4rGf5-AaN4xvKfREyvows8A-96fABrMpiuacyl4Toof-3v1a9bzQBrNtua3xikQiR3WebjfEI0cqxmtKuuPMnbqQn-g3LocjiplL0_nYo2k6R9iHrroxzaMEhL4s-3CW2Yj7IvoEcxEUGKNI5wXApEA5a7zCgLS0-IT5SxiKVuSBTUx0Q3WrddlBKyuOHGox747PVMnWN0XBuzDEcaoA5JezkmP4HEByWU1RlQPssMvXW5SogRilbM_8UUDMZuLsiW3gmemL-asbzzwofdl78D9kKGL1B-iwrP7KrI9OIDfd379kr8PhObREA5vFWkHiB9rO1hDUHaWb6MBKZ8ASq3mAvsuOOcTetJP6laYXTrjM3QbwDpHuGRxDXwL7rANkWM6eNEYH2WbhtzBjVWxqNONleEZjpnZA14QkIGtgQ3MqKGTP-Pq8tTH9hNDPtuCk0hPgBvTZWApYMkeXFmFd1qr96t8xEbGwsETFo69nRR0V7iph7lQkgRaumrkBp5GJdA1OWY81TFtpObB68jplSRu9oRpCR3-VmKD1_US8mY1bXwJK05a4pU_-p9iQkCWiJdmHqUBdtWYRwAXykec6dzW66cXJN24qqdEL-_dxumoqTZDCQ19hLDoKLFabmYtZ9BeW7ZqvDRKsU9RbLUGvoHl9u1OCrZ5NlZB78byATRx8ez_IYlFWfWqRicq6s_jLoxGaTk6Zee4f_qBEuJCg9-mSQ6OEyxbLqkuq6noEaRL969e5xwOop0FqiLpOpFTSQHlI6LiAyL9gXhJwSB2O5ATwSe-vFZmmZskkWfulKBH7uh3_eVOrEMYilQo4FJR-qi6ZX5zNK7PGXUkGRAPjLhAiclnF-hY=",
+          "summary": []
+        },
+        {
+          "id": "ws_006d49db8d234d93016acd5f088bb087d18f0dac5f36fd4136",
+          "type": "web_search_call",
+          "status": "completed",
+          "action": {
+            "type": "search",
+            "queries": [
+              "site:justice.gov Google search antitrust remedy 2026 DOJ official",
+              "site:ec.europa.eu Alphabet Google fine 2026 official antitrust",
+              "site:justice.gov Microsoft antitrust AI cloud 2026 official",
+              "site:ftc.gov Microsoft antitrust 2026 official"
+            ],
+            "query": "site:justice.gov Google search antitrust remedy 2026 DOJ official",
+            "sources": [
+              {
+                "type": "url",
+                "url": "https://www.justice.gov/opa/pr/department-justice-again-wins-substantial-relief-against-google"
+              },
+              {
+                "type": "url",
+                "url": "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google"
+              },
+              {
+                "type": "url",
+                "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-google-llc"
+              },
+              {
+                "type": "url",
+                "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-google-llc-2023"
+              },
+              {
+                "type": "url",
+                "url": "https://www.justice.gov/opa/pr/justice-department-resumes-targeted-hsr-merger-review-process"
+              },
+              {
+                "type": "url",
+                "url": "https://www.justice.gov/atr"
+              },
+              {
+                "type": "url",
+                "url": "https://www.justice.gov/atr/us-and-plaintiff-states-v-google-llc-2023-remedies-hearing-exhibits"
+              },
+              {
+                "type": "url",
+                "url": "https://www.justice.gov/atr/antitrust-case-filings"
+              },
+              {
+                "type": "url",
+                "url": "https://www.justice.gov/jmd/media/1434166/dl?inline="
+              },
+              {
+                "type": "url",
+                "url": "https://www.justice.gov/usdoj-media/atr/media/1367481/dl"
+              },
+              {
+                "type": "url",
+                "url": "https://www.justice.gov/archives/opa/pr/statement-attorney-general-announcement-civil-antitrust-lawsuit-filed-against-google"
+              },
+              {
+                "type": "url",
+                "url": "https://www.justice.gov/atr/media/1420131/dl"
+              },
+              {
+                "type": "url",
+                "url": "https://www.justice.gov/archives/opa/press-release/file/1328941/dl?inline="
+              },
+              {
+                "type": "url",
+                "url": "https://www.justice.gov/atr/i-introduction"
+              },
+              {
+                "type": "url",
+                "url": "https://competition-cases.ec.europa.eu/cases/DMA.100209?caseInstrument=InstrumentDMA&dateHighlight=2026-02-13&from=latest-updates"
+              },
+              {
+                "type": "url",
+                "url": "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-live-nation-entertainment-inc-and-ticketmaster-llc"
+              },
+              {
+                "type": "url",
+                "url": "https://digital-markets-act.ec.europa.eu/document/download/788ff6d9-f0bf-47d2-80a8-611d5ee5bc51_en?filename=DMA+Review_Commission+Staff+Working+Document_SWD_2026_123_1_EN.pdf"
+              },
+              {
+                "type": "url",
+                "url": "https://ec.europa.eu/competition/digital_markets_act/cases/202417/DMA_100193_249.pdf"
+              },
+              {
+                "type": "url",
+                "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast"
+              },
+              {
+                "type": "url",
+                "url": "https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4"
+              },
+              {
+                "type": "url",
+                "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm?utm_source=openai"
+              },
+              {
+                "type": "url",
+                "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm"
+              },
+              {
+                "type": "url",
+                "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm"
+              },
+              {
+                "type": "url",
+                "url": "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google?utm_source=openai"
+              }
+            ]
+          }
+        },
+        {
+          "id": "rs_006d49db8d234d93016acd5f0bbb7087d1b595ba31a623d459",
+          "type": "reasoning",
+          "content": [],
+          "encrypted_content": "gAAAAABqzV8s8gIUCJS1nebCwtaAQ8_-65dOETB-5hDga_MrL3UHhrQMIn3mKoksLkfeeCl3ClXFGUWCQQLjYKDTcXOjcL0cYx-tiCb1_QsexgA1KH43VIS-Yybo_-Z7dTWpKRFL2L50P5XqmtDgeR2yZFHKvVnEi2RngQlEolyshJ8RLMqBfKlcOu6FSLTFgHPHsRhxiHRxsoIJ6mTRCyipL8p6qEUj6-vGySsavLwEuYI07B-rNODEjy3P76W_onYP-btT3ZTVaiKmr5ILFBhhTD7xBJs43lpxlfyeByhxsCFa0awbVcmKxy6uz_H9GO7IrnNqPRlAWJlRZzAnmfnoM0xXg_RPGo2NHQ_6PiMLfYnCWtMxd3IGm4BkyuVE-XzKeWG2FfiHa21oa0otG0lH-K5AMPWbeRjG6Ool8pOx07_lIgxtMv6TWjIfW4XqdD7qUB6TudhFGgTpPVHpRdEQvgf_nd4AxctWnhpHVF5cN0EhtO8sBW9W1wxCaK4t85ro9kzLyZAYM9JDIae7KT-rTiVyl2p7eEwHPijR7YBtJu5RTR5D1o_6cPR67G5RnFajzVGyRABKpdTX-RxifnD1GHcjnta47E2zZt6COkc6IjW8RPoIzRo_1zTkkadHyXwWyPgk1JFeQWRJmeWjIjV-17fQRqKTfXlSP0Z8YqhJpZ8xwigT8hq4x0FQ9IlUe15kGiqCqzwY5rV5ymedc-7g-_tTgCPaFaSN1bEkNv-v5_7Ai0JVCetXZgisGyS0dPpQ6X7MS4s0G-OpOz9dYg4bTnw0Od8agHyPt1dWJZM_Uw4DgpgR7QHvrtmKGVhbGXTJj2o1TLedF3msAQQWw6cgVdV5jr2jasHwGRuMa9j747aCjsRCH4_T3_4gVHfFTlgVzNlG_g-DYy8sm9dgtp4kKZZjBboFA5U2y34W7fCaK6GmpHTYmrWFrZqCyWc-vEA2b59rNGGf3LrUxa8wzi89Gn-MyS8EeIo3IMvDpw8IHp6Kx2mzHp5Su55eYeFLQKJuQhqrWWhjO4iXuWSn1UIBMLF044D7u_meVTyRQ8DsBGoe5MlEIcu9nnt_ETMdkAXtStcbmVTZH3B6bhGeG2t4XUf9RSkJvIOJBISYxUejc6RjLR6vHfnup5usFtb11IfOn39ClVuTeyZH1WY2hkCiOUVWHiafPvCWLLkWrd_u9fApIfqL-EKW-nAAZTY-hjLC1ce4cTGat6jkY3Iydyq8oUf69WJG1F7KPGfRrl872Kcpv5PjUdwYQODPrQUB7JK5b39Lk427H4XRREjA0Cd2F7vH3laZT7F_Nll7z-jNt-6KOhlT2om6uHjaxuosbOw_XEZ8IEtp-DeZRl9yXyFLFy1D8W9q1rPy_GCicJ8VAov4Na_HvZZCUEFQc13m80czHctVnBEjeVJ_A_cf4uQhwifGZX5TW_jr9kcMV-23xpK-TXupE_9EBf8pvLxrINHqStBOw3iL-QAfDjRxkvRTQ6GUF_Q3eluqe6pRAqvd7L4R7iWi1O4umTbMfPCbAnBbzETacU5PrT0ff2b4TT8Qty1j10ndFQGOuyfB65ksfup8aa1Ch-OOLa_Pi7AdYgjLF_ctLxpHRcBufWMzPfBhVrJyfj1Fo3aq7fql4yAZsP2h6-bzfBccaOVQLT9hu509_gi10-3YBlVxRb6Y_VEHFq-Rcz2cioc7MVtYMN2y1HLz2RarTR3lUTXbqbp4XFXZWGY_uLkoYS58UT45WFLPn-w1C8XmYXIrMwup51sl_VZLk7EZeVxhWPKFKfw6ttEDmPWhhdD4wafNKYx3AaNQj7fM8WLwMiSk3uVPca1gGIU4i8p3ig5NbuyOEdIlJtVYSdBWnPqHDRZyGaT6C6CqmgQxhDPbcqo64R2sAzPsvcbp8uUNZgLaZIDjTVdPgHtFaRPxF1E5Jd_asQnP1nEDjX_y5KnsPt54GqK0o9E8EAQfhqbk7tLFhBdHqJEqtEbBMvw89NB8DGynqy5Mb4-jALHl9b-OKTlFyA_duvt4kSsnpGje_K7NkFwQIDN5nSZQzZqWyWIbDwq18m18U_FzJeFghqyh-4Os2LSUUIxWhksuGypTBhDqfuw2JQZxElAMpPCKg__TIC_aL9NzLQG4ggAHk-F7YwpN12pJEIHEoa8ORdj5kFCCIY5Y-jP1Se2q3LnIt_JalvkmBQyZqbxLYNeBOhkGUC3KawvRlq8qXHsLzxSfy8ePaZvtUoiAJ-ADTG4oYHppMZIDW4YQRng2AbGm1MPZMNUo_cMj25WkdqFUXw_J78E5RBrno8kV8JJfHQ110Lx5ezxXhH72V917rnmwdDQRLZw9iNZbYxMnY8qCWlXq_SiE6RxvRqLlxk2GGhqAls3POujiaS75ju_rh1kDDyzJ5POglxsKeqISeH5C5afo2kX4H6GMk_G4CxGOI6nsbbsIx2wEE4djnNVJF25jdPty4dN5jgbx-ceTx-y3sB-rO6ZDKgpf-lUHGVQaYMyzgz0NteBOb_JwFp3vH_aPsNOJydRCzfv6KPvErNgjBhRc_AuoBvSOHiylDoRErWUtOJDvkmzY_CM-PoF7xW6ANVrcB9L0Pbc_LKeg2T3zBYRbBC45qUAMaHERPZzgluaq-UXaFhLgFG23hx_cWtcbi8ZI3FvgNPSY6Zy5QjSgT4RhoiYF_-F00vIs48NRFZZTLTaInHOe-uWONtAVBbPbHxEEHYGTg9eD_B-OyzDgetZnwqouLYhhX9PfsVk0CXARr3hrjcAP4_SqcFqmga65kmIaWRbMTjfdn8Thc-1opktmAJ09g2fQmUCAshOokj1ozX8zTNbKHTTBgQTLkshbby-7eSdZ4JkzaYwNbMVl9Bp3hap9D6aCl-sLaIJmBpEjo0OWlLvGLf4MZAs24g3qI-8bN8ZZIAliSj2QnY43JSKvksz1aB-DQ8otxu4Luj5NBMarTMRdlIQ-OTUWe57-64Oz0KddJIed5lQnhFhALm7-HRURL-56g850kmSO6hJz6Axp7gPQGOG2C3gLuu1iGMghqaqsuyKKfe1ocsoIc9xYU90n77O4JLo5b9ILiKzlaYKRhQ-TRlTJT8m3Jc5fty0oieCo1-0KSUlXLXMJWl2I6zy822UUTsqM1drI7YAc0Wp59KuK113pVKjS869ikdy0FrPUx9xyYNsq9O6hSsH8pMWDQoZR2BAx027OjEV66bU1_CkT-cJ5o28Ps6AcKpvRdWtDqpdNIzWHU3o4DYsq9e-BdS__9MeE5T9fxCgJwUzvkRYN78GK3QqY_j688Xio9SuqT1rzR2y0RdF-i7P32BI5NR0qBc0AtdgN9LrBwBc-URyrujihpVLVXr0mImuKG3vG6Vd3zlfh17YVdaSr9cPEuwJp9utuhiF3GfvdL0mT2rCMGpY37CmXiIymJjrxQiYhGiVbhn5KkPHqHmDW_cyzbRohbQ9vg76PT9vFHARMRT8yz7Vk7d_A5l8_wqrAIyf4No3SZe0uVmcv-ESYlpMrE8MVdxW6qZilGIwyZ0QK5WLoylWjf5NQN29HvfmE838EN4MwPmSN12-9g3wDfnWdtt77-3XsVe4VY8tvA67YmgPvih38mPmNX93oJs6L4o5NCawTH9dDbnX8TRxi8fjh8M7ef7oKeGevvAzZYw_E981GtErR8ubQmzL3Yxy12aXrXYz20FLa4tAQrPGacR5lDZq4yLhS_Uc_GVJUVZgyLb_yTB9BdQde3l4qX7-aWSQkggbjHHMzk6Haii4gubSCLybeRvKEtCG4orSyui-PQcNydhx4_0_Fg3rj4Bg6ncZitfW27WMNZ2_uHr1LDGZ2CjsxNf3EvC12JRlm3d9ZW6WH2XQrStULvRC4oJ-uIcWGUXTW30GA97Gkzqgn1oskMba-qF3KzXROYG3svWNWDa1DQ_gVTxGveIbeonZaRByOEExgZto7ta27A2KyfS9wYx8itxgVflRO6E2W3Z9CPd133nulbLK_18qWG3R0hJJKFnjjm6wxsuErbbvJIblPAPwD0Cyw-LzRcgrsH4rV-4mehIOhe5Koo_cHB__CgYEL2u5n2GT1ceZjEdKyO9HQPW1ZlPDosfXI9SJeGem8QUyLbnDMUzjgfAVMdHO9b0kVTeYrljJTAdfwNKsSKJuCgnWZYjHf5m6OIb59SvpRtNF5_AjiekknsRaVNBCO_hSgguvv-_uKSGuxsqX9sO25X78rqxOkx1wznlKh7VLaNKHD_MWJIIuW1t8U7XrwvAb8DLzXnUhuge5PvyBviV-ohUs1bmcGTd2f-vJ6KzjQv6mo6NAj_YhzmQQYz3fS05XYfYfLWFhv0rMnrCEq4-gQfNsP9qpB8hg7ssuhATyJr6E9UFU7quqmTeR8W4X7vCLv6fnd1O0-aJcfYFx_Iz0htcM6N3eKPCPuunf8hzMIgRqhJIYQR9UHfyk9HrZTEriY8jv_pVCwTcn3z0Fv0DoyjYvPiCB7zrACG36Ybon3jW_mCPS6LinGqoJ6IqedP_N4FmOTJ0aDS9bVfjopLLh8V-NIu1hJzXji3TGEFbQUZo3sYTlTckUjJ2cNL9D7NK_2B4l6gtn3Czw0NdLINADlwKQxREGFM4I2z1jo5ezR8B3ekgR_dUPOB3SnZInPavc81sX8Zga0JDa-jbs5oXhLrHdHgA3Swsz85f0A33v-rACHDGMjR1RlkulWpr1uHuS2Otz2q1egDxliqcCkauH2-ZQJTcEg6HvxYri936hOkyXOdkRfjz_IvFTWUAs0FvEzJAxWbQiIYSw49AVmlic2RL39wpBtwTAj7nnnK4DplrAGjcmNDL19BfZPUCzQP1fKU7m4L5NXboiATkbQ_BIqVOY9LXCrSVgEWlKb7bSCUT6wnRHRr9EyYyLto7pJjGi6Vuzb60bmB_OpWS7OWeb8if-XeTdW-3vQ5kn6FTS7nAfPCoBL4uYw0mAF_sI7NB-buYuwtrjB58NM1gCUC8kKUXgih8XUO5EopMCGeQgiB_kt12uwnPz26KRLm3qBdF79nM667zaQDTsixZtP4rBsxpbuj6CGq9L_K7l4DtwczYG4a-j6peceRMqoaRBVzmxsrGGaFNbecslcUxXLu7gpPnKnKGPKV-3Dyux_vcDl3xjfafITkTDBTMw5hAjmF40McfBYNyp2K8zRxKxFNMQlMWAd2DGEqPePPBWsL5d6iNQI2VOFDMECt79ijcURvFCVzeAj6iL9eeNemFts_p2J_YZDJ9mDiTySXGOVSbp09HB_9eRerlcRJFOAqmSYnGrFFnTqvQYqBoUy8qUVNCjyt5J9nx_kAcVwyCwdrSAVbOL_xFQQDpgB21dExjQ74-YjDfMIMTm-DB7j4U6ocJgcBo3pUevGcEHGUKdap5v7f-Y-sq18AL8o08VGYk8MMk6Oh98X-GDtvjOUwVSJM_SaDHGGQnAd978GlkNYRmOrWdwO6jOJVlnUK3bywi6v_LMsHvOztP2C2HLTIZyUf472FuDTnDCFK-mIdur8T0W9L2uoFo3dK5NF3sPHsnoe3NsxgHHQRJgBwZcKShf-qoLZcHJ2KHAzMuzv6TZW6DzzXzkMlnZrxWTqnRNEJ4VLRjJEPxofUc6sVPYa9QB8JJZFfVlOeqhXZ4UdyqhF6afaelOG8InHNh-iLQGkIPsTSIAWBSr_x_NDxUM-gJ8vJg8yVYqUe2_pDFpQwVbj_oX6UKuA3KoIHIgd4qv0603CZS00tYhIW0I_mygbcUrHp-vyyYWSNPyRSxKYoCIejgw1zzZ2VhPEvqKKzJhm_t9qrjanMyZVqj2X7pGRb9SJ7sa_exsMxp8-ivJjFJCXDLOEYHi5iPm3DnBt8VsLTKbYsVlPMR0YOMhZbJ7zwLeNZuGBqUdgH9892SkHfI-NI8JmfmRZWwwzymnXvsI557ZocO8ELJTklM-h6_M23yHMx6Lb1G4P4crmPdhb8-BN_prhmkw7cC-WW4nX0yffJYsObZXu2H6n2m8879Yt43OvELwf8ai_3LiV8mCObB3_xrmnefPzTeZwfNJqmdzsmOlBu7kVSA8yh7ZTll6mrmnYnGf-UhlksIcLviFabYM2PdO2d4rDcbKpRGenh3VJNdseW1IK04eON0zAchXmYOD4OcwYfE7eivFT7uCPac9kPApMkfEr-aqJfqaPyDebEKwPSPZncvyZW9K5QnDpcVqkuFjvMzgj_6IU4LyogJM1WqCURQ8XGDuPHdKHdiskLvydhXZy6eqj0ZckeCL5NXynvtpjD4zAOPjiWlLi15AL6t7naGEqe5VBzTZ9wdH_JobZy19yWpkRM5dAfHJG_JV6u1NtrCWamAkJhCeaFQLuwkxo2utOrd89n9lqWaJVYsqKf98y27GGztPvVHx7v1BNdWlqhXardbXQv9ayrSXMrrg6Sw0tQPMUjNZuKZFRh1GSZBAituZhWH46dmlkcBEML9QL7d7yf5OAll4xHenFLDuAfznYZ9_p2XpBrvHqH5gf-j3U-XEMNVI_wmUFJiKjtCMNUDRHwbgM08t0zercZf5C6JXt2GHLac2j0lyFMx76bYziP0h56EzeeuDUMconLgNf_KCRM6X6LoU44CSzBeVlgKhE7tTd3Ja7eNQ_IwFiiGsr6AcLULNJslel68B8HV7whP4lva99fr2Il2N42jLhbywCSrhtvob2njjOX8-ht38iJQir7ou3PAf3B3Enk8QM1drjejMzTELoeffxZtUYWpNBKUVfL72cGwNR1AHHQJZhSDCCWiuv6Rxcoe1a6p_CFv0vjo19eKnm7hNpRbSZEsWDiM9Ay3ADUJcv-d2lHzd6o_woMRKYAaMxNKvkxixQjOxk1Vaq6D8FYdSe60O6Ww_dQVMOAsOHi5HJytWiNkvAtXOC7Dtyb9_6zTWJwk1O5uOKULZCm3VXlHy9VzAhM0REThal88HMRCowCVXP1fJuoe0GpScdrZdrJer8bzoCO4qSceqnfLt7v4IoWQM652wbQSrkxIkk6vjh8-Fe3XTADuVbIL0DOTxB8SdCK_4Cvamc0nCr659dzs4bE0HZJljIzpRx7McDhT-Tdetub942_G3sTtxnE3t9xztC4-nBnAoE09xNgG7bqnIb8stoWT30QZ4Fk7LVLyg0MZWAbDQCH9TtCHahrmXROHQnQ8cU26H2Jq4JituMLlvm4t8Z5_GWZ3QfIQjukEz3c33M7kmLP3SxbO6d93ZCfj9HcJcfjxxy0Pl1NpWDTr-azCjxye1mdd05w3U6df4lj5PgQBvZrOKiOM7ykOoNQQlZ5Ru_Tf2V0mCJ_W8ImZS_aW_aKPdMzruJrPOiGiQicBDLiHlY9_ou4bDi1r9gaEKoa4LqbAwQDfeakwpD2dR-IgNzsVN7BP-kwgdIXkLNiBCdvQUn0fN0vl0bItZYvZPnL6OEUilsINL3xon-RtO2J26fU318MQrscKJS_GQgTp1AZIMgYgahC_dXSKaOI3xlbT9VoaMT171eZ0e-h7D6iA81tjkvbwcexo-5DyN4A2irIs6oyygeVtUaZwv8TU1LOyfpulU-T8kgSyvXk7yaK2gJ_4z48y3VRkDxSxxjrNccVxC7IXGqyufbxbyFphJ8pfu5DyxvCoWS0V83kTem8JkLzx48I_b1eCLSW-awpYM9bUo-sRrG1X8wVmkqmPcL8pDtQXZ_y_dCXgVpYz9ny6gRge36wOoZE5V-AZPUFfaToh-10JATRDQwLlQ4NMCLzpIr6IbUWWTj18tanfVZfVydCsHGGOALUCEH2Dh2Xssr_2R6H2bs_g1OqhZBG4vAKh_X_b3dg3wR_A3Dc6egoyVYjwrD3l0JuokL_3Uz6Inwo7uLnrCGDKKU4cuR6QB34hWvpNRCvmK9Qes2HDeMwAqHrgTBd2PP1vhy15Y30lqZVfWMEeC1F64egeI8GrGFILSczQtUE6TC_Dj_Hj8cdaHjQF75lUUhBfUsBgnSc-8_6zmjmURX9YS4AD2w-UY4FYCHGaOkunYHfe66fkoUiYcLrmOCBQMgzOlYjmAu5tFFp1OydyKP_vATdwWZQmnpI5kePhZm7ra8fhlEN3lNQcTnZIDuG0ScgTmDcv-6G0-9WA4JJ3W0WuVoUPntrKMvrW46LPc67PnZ3OVyfrcFFRpA0dg0UaTfXvBP8bIiBjYdMBYs7nnEc1mO7-GPtNwgJZLbshWZAii8OnVeeadvoZhd",
+          "summary": []
+        },
+        {
+          "id": "rs_006d49db8d234d93016acd5f0ed26087d1954b96ef1477aa5a",
+          "type": "reasoning",
+          "content": [],
+          "encrypted_content": "gAAAAABqzV8snWfkvleSnWoEd-e7vQU4XwY5LIymTBwcXVcL-JyHmBgFYHTKUnzHaIQYm3C4VN6SgiMl_8s0kTPr6Mj8SWPYacR3q-8ZClIAY9svBwav0gwqjboYCwjVfAdP_gDM4LCbYwS15p3EAv3OetGByuijIvYPwKQY7kU0LBmNELEK1Alxpq06hz3mBf4cQrjvWU01AmJr_-k0jUdSWYZwSQZAzZWP6ncu20O_hMZhS2bqSATo62koGNVU9O6I0bBQV0xJKPGBwoUoaS-mh1ydoK3KZbndgf5cgswKFbp71_Y9odyhpmuzFZiwvzqGDM6_T7eW1WS5bwVnSTcKu6zI_iktGt983_ACzcJZooxgynAgkx4DDjspIpEFTkY0_nju5820f_D5mLxJh6-xmrj1ckOjYg2BQYOIMiBvk3VdFN6NajEp59sWeMwXlii-8DpTzchqO17KNc4MPSehsD1kwALxR0zI_3s7twt8cQ7TIK5rJMKfqwoXlJVy8sRwT_9O61em7xlij8TypBstrFpjkWSBiAojdlQQEv69AfBoxlHftvX5kWrq_GJWNwzKATVL5XmcN8TDybJV5O23ysFMrg9yMDGLAsngQhjQUZe9sc41c0cb38GmN8xom1zYbUA5yo1O5sBAtrBVDUc-tImibDKtn1Q2FrvwiiCKZ7UKKsRv07soWbUcfd29kwRZBsptz0Fx9eVzem29VRGvJqziu5JNe-rwiTUSImr1doF-9MmR6IJpYCL2AxHT2SJKxawLDWXZzISH8NxUDE2AvI393wHkQtxSUCRbM4EHsBfFRBwSkMzHAIEQ6h92ql4E7WOU61c07B6T69iZdoArQURtfOJz6NPQMfWqONfOhYiBvPKF1gCVPCw9jAg_4347zSZ4GX8L_KtTjA6JUHS5PG23H-m6-Fop_BuORFMklxf0A57_pl6c5zsurWi9BUQb00TAPwRC-fRn5GpNSAS3zlKasLnJMpYVzgiXY41Zg9IXr-tixmJzhrUuypagswg8YL8oLl6eNDqH3c5cZAi6gdKvVStSzn94kVSTiHDex1COv643DSqGwaRIg6vkhkvxIKjXgMQr4I4gfOgTD7D4NCQvT4-5MO1kYLEv5HnBDLWF5yI7pVDeeDxeGgMN2QhzrTi7-r6fA3XD2e92OSKP7Owij5OHzs0g9iIMniFHa1fOFPaOcR9cNDW7IlicR074SPTyXl4g5czWqGHoeAKEb8MVRI9QKYx5YYJ8rTmDqXc8EaJvayflgRhZgC6PIDs3CMRX-cSFlIhKFx_M3trm_Vvo2eFRfdwzqnVBy75b49GfKITfiawUWo-1ZBxtcNtBJIRKHBkm-kcp3SshofW9EwXdMUATMQOyGb-qCfq8iX-hr_tdT9CpAmC6GClHMX6Y_2IUJOKIroMTrlwkxWpi0ZW_vtT7osagsaelIjeaBib-4NsvZgT1kvapEWnyLM_auBpaI9QUGCV-P4KBCdmubeMbv_5o6q8i7bW7SkuyrQRrdVFRe5VWjqxUbVJnPoZ1SDUlkDaX_9y3FAv9Ar-v3sa7HLb827bfdl7djN19pDeyvXED0qSEXbIA1E7MS00gQba_Us1XEjX82m-MRRBeAyfZcFnRN48y-EhsXcFD8pSXDS2R0L4VWPPuHCsjewdbzeZM6H35kRTBMN4Q2tteDgDDKb2_ClSF3_coT-5ZqgvqGstDB__Uxomf7llkdxapMFE2ZhJ3nhRrMyOyl6Aip2zMUSwQ77YBVFmp1C_ep6gU90D7D0oeor7XtSNzuHnzCc_gx9zWGbplQe-bdSh2P6XymJGp6knJ9EyQGUvL16OqRM8ikasfm81Egoim1mxi5agsNYsdhT08iY0rjFzlBLk4doQIg512jMf2jDLD2NYM2ySvz1QarPh-JeWfs-DfXmbI11l84bd_6uN7GcbBBGAxQ032vbZ1VcUgxWNzpZkRUTArlFV1ct_PjyXb_-a6naxRp8i7yB05RkDspdz_XuXeTqJPcQHbKZY_pcucq43MASPW4OOmRTbUoxpDZfXbN_rawcrwNhcKZo4VYvzjfAzh4OWuMk9zFMbO0bXjCXz2tSl5g4LUhglOnqmC-48D1xXmiZrjznlC5DkJIO8AvrfGG5NHmo4MmPVJcvwURf41BsX-sDKbYOpstc40-5CrMasSeVHbkO10qf5_OBS18Din-SwisSgfcyjv_ozWG9BFwskja_ruYCnwX3MwdtoJPiE5zAukG47OYuu84ORDqYw4qRXiCjXGoiopZXyVXvYHwBZHL5aWC026i0bRGXmKMpCJEExaZtdnGZ4EPPJ2SLmAjcx2HYAMR5emnZIMvKQXuzq2NLpZNvN3wkZNXfyacBIRl-XXvN5p-Zpf5hVLw5v8_SPg_DbOvfGD3wa3z_1XT_CUK9KuC0KXDJPA_Lcz_NGurWXTfnz-DcOvR7Pu0pKLRAHyEjHW2hPokBfp5gej5dovSoPeBKIAfum30YOsYjDvkFLOtztJfp6K7XJ2-I6wkiOaW8i9Ny8_4mdRJlxEfJEYYs-vK1brmXH6jXwkSe6F_Cl5E9GcYiVwtIFmZbqIh_83PotNHJWQ0O2a_cpibutYlefnYp0lzWPYFrF6f6zUQ6RIbqWACl6Y1jgpviJDSS18pQgXOGl4pQishlOnwwjzRaNFG_6WoWaJsQQk4ntlz2RkDZm0ibrmYWYfMohIEobM2Vctq2lANvNvw927I74wwiF_U-hQZ3QXXRnCU3GbR-FHuuuUl55aeT771btRvPdyAIWa9JKJuuZswnIyktoJBGgMCjmjGtLk6HzhlNv0SfrDQOQb0vjQK17Qnl_prRKPJmWcJErS2OufT45pNQwGwtD69syDmQzwIm1tl1QBfNaPTA5nE0GpRU-_NbPziPJ3itxO2g7MO5XFyI58hnwhLetK2g66633D6kqK-DXswWIXe4dVm0JIfAq5kmIE6IN01V3jnRtlx8WvIfRYRi5vpsDgerXHbxNsLk3jub39XC0CfTtnexvSe6SG9t5WKmpnhm5c84AC2OB3Ji6TtQjbMjiTNw1R711Uf-pEqnPt8k6v1JkSMWyAsF3EvZvgEA6EhFWs7xinocnJqSCYhTcXjBNgz7bcdudoS963u50lrYG-R8O3ZiSiE4LXSTfKf9tiCnmXSzW-O1d_C_Ic28_AggYxq_muW3eWI-XFo_jMmbnBFhvhGKHy8zL5iOhLy9vSEz-iga4Aahmv_vx0ZW-11-T503zKDR1ouNzqqALGw5oAgR7TNig3KLlvmuZkotBY6Tk1-YB9HBH57fYB4ES7sgvGpMWwq68XRqVqVfwiNgsPSW3t4aFnymM738fR7jJppDoUssTxMWRpVJ85gLRmaIJHNzKe9rAHeQWp1m3PXTRmOsIsjTk6L68fAFxiEM86WzC9ungfKovAAfFeO9ZD7rWUTazYtz17toKBiEhbZ6pVfYD8PP9bOYMJl3HSHsBc8dm6OSZ_-0NLESfWzfAUByRdOPalpzRiHvm8W_GjAHs_OWA6KrMBXrZUguUOhmiWt-5rEGWs66H6EECHRszm_7oQm6nq9t1XWQ3xZwnRpqrAaBH4RH2iyyVclf3H7jfDSPVAOktUs9QSVYFcs5Jlmk-bOfjusTFbYgzR1b8wGNU0ddqlIFvJ_o77DzPO8FHt4rkZhEZOwjM15NRHyllOfH5kghP5jNokR96w2ZYBn-H1zOF0HQJ_vcweIpafhaUJHoEaQ8ILQkI8qfTanGXZ92WeJws5MNtqk_7sNedkj-xUB3mdkyuOvrlKq35vl7d-0wYIBP3cyF-19QHadHdrox66qK8q0Hr4LUWo2_5pgF1j2cab8mCFl3OIEySGwSVv_vzidizhdzjc6LBfhO-c9WykifLq9OWtUHbhKUGC6Okw-f7wbqIkVWgel3V-Qjp_h6xWfKf6Nvd-PVmimQiLy8AJtbTtJfqzr9ta0JCXpPj16URLpmCdQoTeNhS1GTECvaBKBRATWKMcQmx67rLBPn2k4RMhFF9QrgbG64QQnilghsnL1r3oiRCPWb8VBGeBRQy1ciFyN85aBY4TT4GvV7sIAnxGu5yUwGJQKELvyhIwR0Nr9Fo4Kec31pUITXnZPmEVikmAHoCt-PZiVBqhUCJE7cAHdiLpdSIZgOGmNv1yWYihPYt2Yl4n9PyeC5MVj1R1XMopefDPGIANH9Sz-zj4hGkAxNsQQGA42OtFEOw2I304hlTREeUGdBOXr8cakEwuloV9ardwJ_LuvmZ2fccSQUtNbfnAEs5rL05bZwXnExG3W5pLf_QxLuckOcKKj7wwFtIZ_NFQW1VtJ0bKafHZC0F0dxOythbGX7TMZGkuz8suX4_iebxiTjYTsuDjIkym4NiuzFrnpvwwOk-0U-WXR0OwWahoI9aw_wW2_omVHTJl3bOcP6dmIZeiADfaaH-ctTJhuKjD7GDev76nmXQh-eQzNZ2oZOjPVIoUcvlkKiE4cTqBZbTNKGgIZXFgVgVMrHgdBe1NgbdZGrG4MuWaK9hOVNy_5IZkUMnPLPBN5JyM7boa6DU_j2_B1IzOUb66JjyOz41e1hbgeaLt4u7XgOMZcU5Y2FiNT0Uj3oedhIeSHuSFUG3bqX0B7sKW1Bg_zmz6Dnmizi253CKcieRjDz1HIOXlm7SrDcwN0vzNOCtxISRmVdc_fNEmHb9O0-s6hyKjROWeYCTvrf_Ngs5HE3UXdfpmZpnzQb4ZTdYVoOJTirojNgzadq4gb6f8SyjsMeXCEFZj-UmQul0zeocM94KngizTPT5Ze3yzs3SGVOiWcO_gocIpScH--T-CHPMKFGp0zsXETn3JfVHNBWJBcxc2yB9mNEw6dqWO0nOEpLDdr0HNa7924pO3RalWwqUSKngrkRR_hslYEmVx7E9cZCdmAdof1ikLfqPdsbrTRpBsDwXihJjNwIwxc4iMMVKjJ4WrKmwrzuL9k_V662m_-qh6bpQ7UjtRjE8PGdVNdCMDUqZsybXlpR7hwgh5jueUFLYAP7tvCvhfjG_HnuDinM_yuH4rTLnhAWEUXLRIfAMFwgVGukfqVbuFseJhGMexMsyjefOPcdJqNYCc-jcDT8czQFC4GM_fG5k6R81WkeM-5W2FZyjWB736TmE3FExc1kUNmHiMbW0z4TTLQr3TPq63uJqhoNC0fXwWKaLTY7L6q49VSDugl6bT-1Lcn3ZsESSiU2HFBxxgDShPCkOosKqPe7Jeq6lUQ36cc8R2p-mJd8pcNr-_hxYY7WSqEgSXutH1WrXhm1ATqSxuMJ1SEqPK5DfVhnCWdbZjgD_MYSXYMB9oBKdPSNf3TzgFmqFrURBP0pZDHJy1Qo9q755Sgn6pM6SPbDTWIh_WxCVls26JZntRqXH_-T_vSTFI6s5TQf5oOQJQ1syW6Je6_kR36pINHPDZuM6LdMXs45f1wUJuO6rEPMD4uISJA2jk7NPYAHQG6fS1XP85kgrVTY8K8FfF8Jh9qR5k8sZvSC3HaEAd8V9qxd4U4o6ivrVN1PYHMBiSHeAGaUoqSo0bMrxrN4dQ2VqbgDlR0ZAAt1OV8ibAhv5-HCCj__DBpvaA9nbuKA1S4KMBKtCkt7Cxo_R2J6P0Hk-n_JXpF0V43-gUx0q4pxgczlDGvDAvga9NTvuTrcDaSeDYpKUoT0XeLJN8h0-Cz_o7Oiqwjz5lTdSm-QLGw1zGRJ0-BSikT9-qCb_5UJwgEVah0Nu-lwggbQ_cXtvwESEn37MxaKWbYAslbBQvdA7WtaGgy3rRo9W1kaS_OwZ6PE2328Og1WPCOg8cW_r_oOB0AQt1X7J8twdTWJ1NcqodVhMlQTY5FX61ghpLEE_P97hg2KXtfjbvL0OL69P4hObQ_vwErkKFsTQImb9HvQnXxwMIzRK4Ikx_HG6VxLK-o1eLLlN6tYEDG6OApyrOvA5WB-hi-1R9c59oyZ_AC8-YlxJuiIUBjPK8WZ1ufsTiFq1wlkQCI0KKcQCllwGMk2JBzLps4IzoD66OACPa_DW9Tm2-KpUHhBW72arXBX15LWAUC_Z4ArRkn_q341BwQVLFb7Ffpe3XFemAk7IVyldnqSjJHuYO5V67xzeL5tCufT2qxQeAjqIUoS6Owsp2IeOsSAZvUa6PbcY_dV6BThmCQAfebEDXJDdO7bg00siT2ZfGGmmDlN_Xfybn_y5LZYs8BxWFAY9p1sCC320TpgAQAel7fhmYng5zJMeE0y0Rdnp2Vj4qToqa97K0ceqBW7-3qKvc-0a2k1T1lyHxfp5UEmqqexC4QBueh6lUz-pHfTPG99kHolP9q5ZpyVAI17nQNl3CJrqZsjbn_9Uo76NoEF74NJwOEGMbrT-xhCUm41WW_LoebDQkBWZpCjyh56L_de3qI-fQmPBF3R1LciGZFmsEiBWKarnm0O_Nz3MywQL4lhZR1Wv4e0WAzz4wwAHWsM2RBpBUsa_aIThYzMsxMVjuZBUMUIYHLXyvE-AzIq8ZpCamqruXfZ2z6fqqOYEWlJQObpx91qtALP5dumsI07ItAT9GxERhoLesCDThan7lIYngZDN6j-jI3MLzj7QwspGFwQcPhz1opx6CtOyZ0GbH0oYLfjCGHgBb_pnod1ZEdlyJWOWON7ruVmYxIg3n09sZONPwTBi_CXJLZKY6bd9ZLwrjSUrpy5MLUbTtQ9HLcUqLPnJi_su-PWOggVZ92Z81Tsk2TTl-5UawkVr5G-RAJBIffaQ5orQ9PXKclL2O0X0Gd9PFq_KrAqHd2x8qvqazBBP7tN5BVn7x2yHoTafIQLDQUEGSrIMvQCNJnawjRe3XDiC1lfRXUCwmwDZAWSY0adOadNpEl-DLDcwadKfjCDt7kaIL7mrBERDmzRpASj61-KLm9zSBLf1xnysQF-MXsOGfjIVsyRZHs1bnUyv856cE6MkpG0tdKUmjTHq84VCVpBwg1hXnjePZv7rwK8oBenaS8EYo_3u1U9GYsRoguEmYoYKnScbQNgLLQiaxyFHDKEyaoXQLAzL_teKPo5oW6IemIhbLDCu5AeyzPNBLltY-DsRfk_nYZCDC9EpoTcCmDULKZ4ovyjiqKf_uju-lMaFfRRNnQtInfxccYB_TCA1hKcL1FKo17RYTdG2PdKi1UYNkwqQOJ4rYBsmRSUWMOfKIPPMD8H92XsoBg3QJ_41wg2vsZqv85xB-WDSejEBZaAX91SNN5lEDV-QeXzZisNPSpVJiyd_-lyJKibN6kmbXNRkk2gQBo3xYc_d4sk4LVs8zCbu2Vb92uuhkOeYym23_kvMMT5PH4H1rR7ft43g0W0mB5D6acSJ-27kWubcLqQ6cFVdfzE-hUezs8zK-GjTWQY0E6SR6M821qsSo1QWFwIA6fvnRHeSGHJILiLJeI61vdD7ZJYm28DHgLex8PvGMJaexGSWhtjZNE_eNx2Lq6lQFXW4R0JsroKhfuA6HBS4Rb2AiuGFZqTjc_-fxeRDqCfHnndDnpZ7d_WhGUl_5nDJnm4VTrMUFHxaMOyg0WR27FgKz9JHcwN4bZMbYD-S3B0BsDZ1BlXWQmETZNDUCZwGRFSADUv7OsFzeQUTlw30T-Nkghzsa6WUo-w8P49mjNiTdaOX3uTk_OXowEMLUkFktILc571Xr5yCOZopBogK3SZIVlVMmIaBQVFqV-2saosmh",
+          "summary": []
+        },
+        {
+          "id": "rs_006d49db8d234d93016acd5f13eb6887d19ec71a225a13c05b",
+          "type": "reasoning",
+          "content": [],
+          "encrypted_content": "gAAAAABqzV8s2Z1GNkVHhKLqej1Z1VCQ42EENzdhczmIZzlRvSJc0vdKnLNZiZsKkHxfeY8o-rbskmV6Plfx1AB9vqYHMYuMcloNZ9lGIg6fMq6IdPVtkoPQnuNbyVLde31lEqmaPJp2rsivnzxys20gb39INNi-taEfo9sKM6Tx5Jb51T3r88adTfGPQ8hDEKwFXC5ad80DrMRekGi47rRFj5CDaML_TzdPTZL106ao3RxE1cre8niXfn1kzItSfhw33PovNxph1x0C-jvMBz0ojJXV3ReXDK4x7yiqYYsIm4uHsuyl8wMzvxA6SUTH4AMy5B6KKksNHuX0riuZcRwsydmiIyR15YKtodHFHH5dYnUSt5RtNZCxlBWiNuL4K00WY1oQZDvTlddQmfGETC3o1wLBonFw3DUVpYq6PuJt5pYl_M0KsTEWOfJIuXUSfJ1xufL-1PKc0ternfgQZOgsYpEJP4Q1qsFZO3oqgnmcYCcb6FKtXHV2X-w0GdY-6Bf84TqJ81mFCMuF-fxvmeBArha47AEDoFSkUB-IdeCpC5EdgGnWu2znyWpo2uCe9Nla_MKUpm75aDVFvYO1QL3vYAYvix0zJViyXr5xaHsaIkWRxOp3jgp-jNZCIX-aRzh-bI9T6rYBSs6zC7VADZlP5WrYQNKhDqHdEjV27eI9JgDSgDEFu9tceTcOBaegUxXCMKpGO42lw91mAd8PerPBD7CJasmqSacRcIZr-PfudR8G8Rwx_rGZn6XXXoXHk-mRxOzeSaP5bmm-xn7blaXUuGiMVSptr3heOAI8UJcsp_i3pfx11xNjfV-A-altUpT3_5ShOlv38khEl88sRJ3WgrnT3gn4B7ZUarF35oA-Aq65TAoedFec9XIVb_YKz72RI6-F8ro6yMFUFNckMdtTV6IeHijKwyDru3WmqB0N7uPR9b-B_02fKrt7kRQpvvBUUUwzhFMINV9f8fdLqGuMN_g9RnrdD8hOZmyoS1xsGFOzHEpQ0fWt07Cr6KPcsm07uTLk5tCdci46l_mFhtmeMjwXBaxk1OnKhKYVVJnXnKjYF-bqQcn8LsEakHaAXjUJ9BA7FK_BSH3vaJjbu7xqxIuwER-_Ta1QOYKFycLoFO71DS1i8HxTbYH3aiIN--EXHdLGbb3wE1Go2c_OGiWUhXM8KAIekplz4vge0Oj_VxC7w_rUHI0Qh-urKRVOIAlexHnF_hi0BxNv_DGlZWPeji_lxg1AKum8kVIfVQgCw3K_b1zZRYyHWCsGjunr0oen0t0ealRmJfwZP2c-kljx2OFojfzJSJkuETpsvNOs-Ka8J8pYgl6A852zaAyUshvxKPIT6OGyFAgZBj256Qwdarwtq1u-qFGRNe0gWeNi8w0QeJ0ehJhO4xWJhVkPar5pXbdotm-7WwWaad5VaqMXgTgE66jzpBw9Q1aJjE-1WfPF2pgkZ0EK0cQ95Ikdh5lbFCfattfHCn2qDd6dersaUrKd_qXcV5My5WYiU1dza1TziwVHjFWJXzySfa_ZOvXQiEwqm3c3xHz9Ge_lQEMJ4wj7DeCyxFt1fW75sWfE0bYinKbv2MtdcPlODy9RDsAi8-LqSC-3GvQqzKZdSoYAMg4ZMvbWNCuOrN3go_Zah6DgRvBwdx8y8IffaYypS8KAtIBC5d0QXpOIjM1t2PP5TG1eHu0p0IP64IgmnokXUM1kqkCta6hVm5qvlIaIwzxRyVSmnZSTajLbc9ehvfukuxwJLTyrusvZdg-rS60CeFZsVVEzjo0rGh90tJ7Oya9Sf4-OdnOY0yEdZ5ut0RNZGTRcYY-ojIAWUse08qyehFEdFWVOxQ8COcLtyGm_fliO0_tMFnQEWqdORgfUlrID7ZVLgbzeZQx3uNjqQRenfKoxvSG-bKOVS9YpbQm_8Uo8bsC5Tm-zwTL5Qs3w9vZgtHd8zMIbAk_lkiqGDtNLtdVOIIjv129yTosCIArF0TWgV_4M3Q6IW3KVRIyS3hzviYbmDqZ8HhjcXWCyo3vzjADe9xCorhZiM12EC3eqmp-wlToGT5DUykDUCJEUo6l4CTQDUXfV1R0flkJweK27wE8SGq8hIP6CuytmZD3iXT1qIhrfmZWQ87ALo7ME6uwmsj-R_RiNUUNl8ttsmEyRXqPJfPYsNfqBDiF43HMr7aa8feqtmA12fL86dO73JayYPLbjbmMRN42HRU3bzvb5IBaJ5gkhjHZaT_lNNLttc3tqsGwKmdT_CGCXTcp4GLN1xWV0TqLEipjYJeh_8Yrrnzr2RWf8rFFamCHDptUpX9n5Cpu_aQ_-gcnTTjGACEkhhdKONjzdiR3yxKoU-qUjZZm7GHu9_f-zfHBKr2Gsgu0KKzj8PVUtuxcXqHwI-3etrGwzATwJLKkaFSGEYLI_Dq9c1Q2m2eRa8zEtwGIv6X5r_sHYUGUKz_hrHyr6KLH1pbjoU-VsQwP3nA214B6A_YWYZ2YV_7JwpLLIRLP0SQdO9W_g1glejSXcomYocqnQvgzOQ2Q1xAh6WInNF21XXoGNfjGjcIHctH1yCQ3-GUR6dD_PixvxBKwQ4JQ1DCj-pVRXV1pfgrX2erC0vMzz81l3Z-SMXviZlxY5BYeQNUanMjCffz4U097k8EVBfn5OvimKoJnnQsKgTvPqvAIoTi2ydIe7iO9KCKE8iwHcj7kkn2jAFyiOQV57OggxUvuA6Yvw9JwIa9HIqr1RzBdR9F5f11DosmY-5aIht6_BBxFh9Hl-L62JYFy8FJLagWggQ5ovKfBEWl3zVfAXRhnmuX2sSDTW6KRCoUQkcb4yKo0A6N9XS0A8mgyIMKuWFtk0knKvemhTyWho-Y2HE3Ctht8c0NqthUqljMp8heEHT6ZGM-_uG6nkRrLUI-3RiQS-AdOYn4wnow==",
+          "summary": []
+        },
+        {
+          "id": "msg_006d49db8d234d93016acd5f14cd6487d1b8020e2269cc2ba3",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [
+                {
+                  "type": "url_citation",
+                  "end_index": 2454,
+                  "start_index": 2353,
+                  "title": "FY26 Q4 - Press Releases - Investor Relations - Microsoft",
+                  "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast"
+                },
+                {
+                  "type": "url_citation",
+                  "end_index": 3664,
+                  "start_index": 3563,
+                  "title": "FY26 Q4 - Press Releases - Investor Relations - Microsoft",
+                  "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast"
+                },
+                {
+                  "type": "url_citation",
+                  "end_index": 4738,
+                  "start_index": 4644,
+                  "title": "Microsoft Fiscal Year 2026 Fourth Quarter Earnings Conference Call",
+                  "url": "https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4"
+                },
+                {
+                  "type": "url_citation",
+                  "end_index": 5225,
+                  "start_index": 5124,
+                  "title": "FY26 Q4 - Press Releases - Investor Relations - Microsoft",
+                  "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast"
+                },
+                {
+                  "type": "url_citation",
+                  "end_index": 5777,
+                  "start_index": 5683,
+                  "title": "Microsoft Fiscal Year 2026 Fourth Quarter Earnings Conference Call",
+                  "url": "https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4"
+                },
+                {
+                  "type": "url_citation",
+                  "end_index": 6322,
+                  "start_index": 6221,
+                  "title": "FY26 Q4 - Press Releases - Investor Relations - Microsoft",
+                  "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast"
+                },
+                {
+                  "type": "url_citation",
+                  "end_index": 7735,
+                  "start_index": 7620,
+                  "title": "goog-20251231",
+                  "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm?utm_source=openai"
+                },
+                {
+                  "type": "url_citation",
+                  "end_index": 8243,
+                  "start_index": 8139,
+                  "title": "www.sec.gov",
+                  "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm"
+                },
+                {
+                  "type": "url_citation",
+                  "end_index": 8813,
+                  "start_index": 8716,
+                  "title": "goog-20260630",
+                  "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm"
+                },
+                {
+                  "type": "url_citation",
+                  "end_index": 9529,
+                  "start_index": 9425,
+                  "title": "www.sec.gov",
+                  "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm"
+                },
+                {
+                  "type": "url_citation",
+                  "end_index": 9984,
+                  "start_index": 9880,
+                  "title": "www.sec.gov",
+                  "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm"
+                },
+                {
+                  "type": "url_citation",
+                  "end_index": 10788,
+                  "start_index": 10663,
+                  "title": "Office of Public Affairs | Department of Justice Wins Significant Remedies Against Google | United States Department of Justice",
+                  "url": "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google?utm_source=openai"
+                },
+                {
+                  "type": "url_citation",
+                  "end_index": 11585,
+                  "start_index": 11488,
+                  "title": "goog-20260630",
+                  "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm"
+                },
+                {
+                  "type": "url_citation",
+                  "end_index": 13214,
+                  "start_index": 13110,
+                  "title": "www.sec.gov",
+                  "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm"
+                }
+              ],
+              "logprobs": [],
+              "text": "## Microsoft vs. Alphabet: five-year business outlook\n\n**Bottom line:** Both companies are exceptionally well positioned for AI-led growth, but their paths differ. **Microsoft has the stronger risk-adjusted five-year growth profile** because it can monetize AI through an entrenched enterprise software, security, developer, and cloud distribution system. **Alphabet has the larger potential upside from AI-driven cloud growth and from successfully defending and extending Search**, but it also has greater exposure to search disruption, regulatory remedies, and an unusually capital-intensive infrastructure buildout.\n\nThis is a **business comparison, not a stock recommendation**: valuation, capital returns, and an investor’s risk tolerance would determine which stock—if either—is preferable. Financial data below use the latest reported periods available through **October 12, 2026**: Microsoft’s fiscal year ended June 30, 2026, and Alphabet’s quarter ended June 30, 2026.\n\n### Comparative snapshot\n\n| Dimension | Microsoft | Alphabet |\n|---|---|---|\n| Primary economic engine | Enterprise productivity software, cloud infrastructure/platform, security, developer tools | Search advertising, YouTube, advertising technology, cloud, subscriptions |\n| Latest reported revenue growth | FY2026 revenue **$331.8B**, up **18%** | Q2 2026 revenue **$119.8B**, up **24%** |\n| Main AI growth engine | Azure, Microsoft 365 Copilot, GitHub Copilot, enterprise agents | Google Cloud, Gemini/Vertex AI, AI-enhanced Search, YouTube and consumer AI |\n| Cloud momentum | Azure and other cloud services grew **43%** in Q4; Azure annual revenue surpassed **$100B** | Google Cloud revenue grew **82%** in Q2 to **$24.8B** |\n| Main structural advantage | Enterprise installed base and integrated distribution across software, identity, security, data, and cloud | Global consumer distribution, Search intent data, advertising relationships, YouTube, and vertically integrated TPUs |\n| Principal five-year risk | AI infrastructure spending and depreciation could outpace profitable AI monetization; reliance on large model-provider commitments | Search economics and default-distribution remedies; AI answers may alter ad economics; regulation and very high capital intensity |\n\nSources: Microsoft’s FY2026 results and metrics; Alphabet’s Q2 2026 results and filings. ([microsoft.com](https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast))\n\n---\n\n## 1. Microsoft: the more direct enterprise-AI monetizer\n\nMicrosoft’s business is increasingly built around a powerful commercial flywheel: Microsoft 365 and Teams create daily workflow presence; identity and security products increase switching costs; GitHub, Dynamics, Power Platform, and data tools extend the developer and business-user footprint; and Azure is the infrastructure and AI-consumption layer underneath. This is an unusually effective route to monetize AI because Microsoft can sell AI as an incremental feature, consumption workload, security capability, or agent platform to customers already under multiyear commercial relationships.\n\nThe current numbers support that thesis. In FY2026, Microsoft generated **$331.8 billion** of revenue, up **18%**, and **$155.2 billion** of operating income, up **21%**. Microsoft Cloud reached **$214.4 billion** of revenue, up **27%**. In the June quarter, Azure and other cloud services grew **43%**, while Microsoft reported more than **30 million paid Microsoft 365 Copilot seats** and Azure revenue above **$100 billion** for the full year. ([microsoft.com](https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast))\n\n### Why Microsoft has strong long-term growth potential\n\n1. **AI can be sold into existing enterprise budgets rather than needing a wholly new consumer habit.**  \n   Microsoft can attach Copilot and agent capabilities to productivity, developer, security, and business-process software that customers already use. This reduces go-to-market friction and makes AI monetization more repeatable than a standalone chatbot subscription model.\n\n2. **Azure is both the infrastructure business and the enterprise-control plane.**  \n   Azure benefits when customers train models, run inference, manage data, secure identities, build applications, or deploy agents. Microsoft also says its cloud platform offers a catalog of more than 11,000 models and has seen a fivefold increase since the start of 2026 in customers building with models from multiple providers. That multi-model approach could reduce dependence on any single AI vendor while making Azure a neutral enterprise platform. ([microsoft.com](https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4))\n\n3. **Revenue visibility is unusually high.**  \n   Commercial remaining performance obligations reached **$678 billion** at fiscal year-end, up **84%**; roughly 30% is expected to convert to revenue within the following 12 months. Excluding OpenAI, RPO grew 25%, which is important because it indicates that growth is not solely attributable to large frontier-model-company contracts. ([microsoft.com](https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast))\n\n### Microsoft’s key risks\n\nThe central question is not demand—it is **return on AI infrastructure**. Microsoft spent **$41 billion** in capital expenditures in the June 2026 quarter, about two-thirds on short-lived assets such as CPUs and GPUs. Its Microsoft Cloud gross margin fell to **65%**, from 69% in FY2025, reflecting greater Azure mix, AI infrastructure investment, and usage. Microsoft expects FY2027 capital expenditures to rise year over year. ([microsoft.com](https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4))\n\nThat does not invalidate the thesis, but it changes the five-year evaluation: Microsoft must convert rapid workload growth into durable margins before accelerated depreciation, energy expense, leases, and model-serving costs absorb too much of the benefit. Its own reported earnings are also affected by gains and losses from OpenAI investments, so operating and cloud metrics are more informative than headline GAAP net-income growth alone. ([microsoft.com](https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast))\n\n**Microsoft five-year view:** high probability of sustained above-GDP growth, led by Azure and AI upsell. The main upside case is that Copilot and agents become a standard enterprise software layer; the main downside is that AI becomes infrastructure-heavy but insufficiently differentiated or priced to preserve returns.\n\n---\n\n## 2. Alphabet: greater optionality, but a more consequential transition\n\nAlphabet begins from a different position. Its core economic asset is the global Search-and-advertising franchise, reinforced by YouTube, Android, Chrome, Maps, and a broad advertiser ecosystem. This is enormously profitable and gives Alphabet unmatched consumer distribution. But AI creates both an opportunity and a strategic challenge: the company must make Search more useful with AI while protecting the high-margin commercial-intent queries that fund the rest of the enterprise.\n\nAlphabet’s calendar 2025 revenue was **$402.8 billion**, including **$342.7 billion** from Google Services and **$58.7 billion** from Google Cloud. In Q2 2026, total revenue increased **24%** to **$119.8 billion**; Google Services grew **15%** to **$94.5 billion**, and Google Cloud grew **82%** to **$24.8 billion**. Google Cloud operating income rose to **$8.8 billion**, from $2.8 billion a year earlier. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm?utm_source=openai))\n\n### Why Alphabet has strong long-term growth potential\n\n1. **Search remains an exceptional cash-generating distribution asset.**  \n   In Q2 2026, Google Search & Other revenue grew **17%** year over year to **$63.3 billion**, while Google advertising overall rose to **$81.6 billion**. This demonstrates that, so far, Alphabet has continued to grow the core franchise even as AI changes user behavior. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm))\n\n2. **Google Cloud is becoming a meaningful second profit engine.**  \n   Cloud’s 82% growth was driven by demand for AI infrastructure, enterprise AI solutions, and core cloud services. Alphabet’s ability to provide infrastructure, Vertex AI, Gemini Enterprise, cybersecurity offerings, and proprietary TPU systems gives it a differentiated full-stack offering. The March 2026 acquisition of Wiz, recorded in Google Cloud, further strengthens its cloud-security position. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm))\n\n3. **Alphabet has deep vertical AI integration.**  \n   Unlike cloud providers dependent entirely on third-party accelerators, Alphabet designs TPUs, operates data centers, develops Gemini models, and distributes AI through consumer products and enterprise cloud. This could lower unit costs and create a durable advantage if its models and chips remain competitive. Management reported that the Gemini app had **950 million monthly active users** in Q2 and that nearly 90% of the Fortune 100 were using Gemini Enterprise—useful indicators of reach, though not substitutes for revenue or retention disclosures. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm))\n\n4. **There is more upside optionality outside the core.**  \n   YouTube subscriptions and advertising, cloud security, AI developer tools, autonomous driving, and other “Other Bets” provide additional paths to value creation. However, investors should treat these as optionality rather than the base case: Other Bets remained loss-making in Q2 2026. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm))\n\n### Alphabet’s key risks\n\nAlphabet’s biggest strategic risk is that the format shift from link-based search toward AI-generated answers could reduce query monetization, traffic to publishers, or advertiser economics—even if it improves the user experience. The risk is heightened by regulation. U.S. search remedies prohibit certain exclusive distribution contracts and require Alphabet to make certain search-index and user-interaction data available to eligible rivals, as well as offer search and search-text-ad syndication. Separately, the DOJ won ad-tech remedies requiring interoperability, data sharing, non-discriminatory bidding behavior, and six years of monitoring. ([justice.gov](https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google?utm_source=openai))\n\nCapital intensity is the second major concern. Alphabet spent **$44.9 billion** in capital expenditures in Q2 2026 alone and **$80.6 billion** in the first half, while quarterly operating cash flow of $39.1 billion was insufficient to cover that quarter’s capex. It also had **$85.2 billion** in future data-center lease payments for leases not yet commenced. Alphabet raised **$49.6 billion** through common stock and mandatory convertible preferred shares in June for, among other purposes, AI infrastructure and global compute. These facts point to enormous investment capacity, but also to less free-cash-flow conversion and potential dilution if the spending fails to earn attractive returns. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm))\n\n**Alphabet five-year view:** potentially very strong growth if Cloud remains a large, profitable AI-infrastructure provider and AI-enhanced Search maintains or improves commercial query monetization. However, its outcome range is wider than Microsoft’s because the core Search franchise is directly exposed to behavioral and regulatory change.\n\n---\n\n## 3. Head-to-head: which business is better positioned?\n\n### Microsoft leads in:\n- **Enterprise monetization:** Its existing contractual relationships and integrated software suite create clearer paths to charge for AI.  \n- **Revenue visibility:** Its commercial backlog/RPO and annuity-like cloud-and-software model support planning and reinvestment.  \n- **Cross-selling:** Security, identity, productivity, developer tools, data, and cloud are mutually reinforcing.  \n- **Risk-adjusted AI adoption:** Customers can adopt incrementally through existing licenses and workflows.\n\n### Alphabet leads in:\n- **Consumer reach and data flywheel:** Search, YouTube, Android, Chrome, Maps, and advertising deliver unmatched global distribution.  \n- **AI optionality:** Successful AI integration across Search, Cloud, YouTube, and devices could create several large growth engines at once.  \n- **Vertical integration:** TPUs, models, cloud infrastructure, and applications may produce lower AI-serving costs and differentiated performance.  \n- **Cloud acceleration:** Its current Cloud growth is materially faster than Microsoft’s Azure growth, albeit from a smaller revenue base. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm))\n\n---\n\n## 4. Five-year conclusion\n\n### Base case: Microsoft is the stronger compounder\nMicrosoft appears better placed to translate AI demand into **recurring, enterprise-grade revenue** over the next five years. Its advantage is less about having the best model and more about controlling the enterprise distribution layer where AI is deployed, governed, secured, and paid for. If Azure remains a leading destination for AI workloads and Copilot/agent products become embedded in standard corporate software budgets, Microsoft should grow revenue and profits at an attractive rate despite some margin pressure from infrastructure investment.\n\n### Higher-upside, higher-uncertainty case: Alphabet\nAlphabet may produce the more dramatic upside if it simultaneously preserves Search economics, scales Google Cloud into a much larger profit contributor, and leverages its AI stack to lower costs and increase consumer engagement. But it must navigate greater structural uncertainty: court-ordered changes to search distribution and ad-tech practices, the possibility that AI answers change search monetization, and a notably heavier capital-spending burden.\n\n### Practical judgment\n- Choose **Microsoft’s business model** if prioritizing **durable enterprise monetization, visibility, and lower execution risk**.\n- Choose **Alphabet’s business model** if prioritizing **AI-platform optionality, consumer-scale distribution, and potentially faster cloud expansion**, while accepting more regulatory and Search-transition risk.\n\nIn short: **Microsoft looks like the better five-year risk-adjusted growth business; Alphabet looks like the more asymmetric opportunity.**"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": "24h",
+      "reasoning": {
+        "context": "all_turns",
+        "effort": "medium",
+        "mode": "standard",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": false,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tool_usage": {
+        "image_gen": {
+          "input_tokens": 0,
+          "input_tokens_details": {
+            "image_tokens": 0,
+            "text_tokens": 0
+          },
+          "output_tokens": 0,
+          "output_tokens_details": {
+            "image_tokens": 0,
+            "text_tokens": 0
+          },
+          "total_tokens": 0
+        },
+        "web_search": {
+          "num_requests": 3
+        }
+      },
+      "tools": [
+        {
+          "type": "web_search",
+          "return_token_budget": "default",
+          "search_content_types": [
+            "text"
+          ],
+          "search_context_size": "medium",
+          "user_location": {
+            "type": "approximate",
+            "city": null,
+            "country": "US",
+            "region": null,
+            "timezone": null
+          }
+        }
+      ],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 46137,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4477
+        },
+        "output_tokens": 5084,
+        "output_tokens_details": {
+          "reasoning_tokens": 2132
+        },
+        "total_tokens": 51221
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "error": null
+}

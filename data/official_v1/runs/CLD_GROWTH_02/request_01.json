@@ -1,0 +1,42 @@
+{
+  "model": "claude-sonnet-5",
+  "max_tokens": 65536,
+  "messages": [
+    {
+      "role": "user",
+      "content": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term growth potential."
+    }
+  ],
+  "tools": [
+    {
+      "type": "web_search_20260318",
+      "name": "web_search",
+      "allowed_callers": [
+        "direct"
+      ],
+      "response_inclusion": "full"
+    },
+    {
+      "type": "web_fetch_20260318",
+      "name": "web_fetch",
+      "allowed_callers": [
+        "direct"
+      ],
+      "response_inclusion": "full",
+      "use_cache": true,
+      "citations": {
+        "enabled": true
+      }
+    }
+  ],
+  "tool_choice": {
+    "type": "auto"
+  },
+  "thinking": {
+    "type": "adaptive",
+    "display": "omitted"
+  },
+  "output_config": {
+    "effort": "high"
+  }
+}

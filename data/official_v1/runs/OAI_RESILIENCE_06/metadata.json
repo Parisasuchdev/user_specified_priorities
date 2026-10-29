@@ -1,0 +1,13 @@
+{
+  "run_id": "OAI_RESILIENCE_06",
+  "provider": "openai",
+  "model": "gpt-5.6-terra",
+  "condition": "resilience",
+  "repetition": 6,
+  "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term business resilience.",
+  "collection_name": "official_v1",
+  "status": "completed",
+  "included": true,
+  "submitted_at_utc": "2026-10-12T22:25:14.544571Z",
+  "result_saved_at_utc": "2026-10-12T22:31:22.273019Z"
+}

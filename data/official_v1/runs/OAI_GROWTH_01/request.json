@@ -1,0 +1,35 @@
+{
+  "custom_id": "OAI_GROWTH_01",
+  "method": "POST",
+  "url": "/v1/responses",
+  "body": {
+    "model": "gpt-5.6-terra",
+    "input": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "input_text",
+            "text": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term growth potential."
+          }
+        ]
+      }
+    ],
+    "reasoning": {
+      "effort": "medium"
+    },
+    "tools": [
+      {
+        "type": "web_search",
+        "search_context_size": "medium",
+        "return_token_budget": "default",
+        "external_web_access": true
+      }
+    ],
+    "tool_choice": "auto",
+    "include": [
+      "web_search_call.action.sources"
+    ],
+    "store": false
+  }
+}

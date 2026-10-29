@@ -1,0 +1,6 @@
+/config/api_keys.json
+__pycache__/
+*.py[cod]
+.DS_Store
+/data/pilot
+/code/run_test_study.ipynb

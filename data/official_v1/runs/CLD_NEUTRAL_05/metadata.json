@@ -1,0 +1,14 @@
+{
+  "run_id": "CLD_NEUTRAL_05",
+  "provider": "claude",
+  "model": "claude-sonnet-5",
+  "condition": "neutral",
+  "repetition": 5,
+  "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources.",
+  "collection_name": "official_v1",
+  "status": "completed",
+  "included": true,
+  "submitted_at_utc": "2026-10-12T22:25:16.623843Z",
+  "result_saved_at_utc": "2026-10-12T22:27:19.116461Z",
+  "claude_rounds": 1
+}

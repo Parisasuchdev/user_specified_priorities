@@ -1,0 +1,14 @@
+{
+  "run_id": "CLD_RESILIENCE_05",
+  "provider": "claude",
+  "model": "claude-sonnet-5",
+  "condition": "resilience",
+  "repetition": 5,
+  "prompt": "Research and compare Microsoft and Alphabet as businesses, considering their prospects over the next five years. Support your analysis with cited sources. In your research, give special attention to long-term business resilience.",
+  "collection_name": "official_v1",
+  "status": "completed",
+  "included": true,
+  "submitted_at_utc": "2026-10-12T22:25:16.623843Z",
+  "result_saved_at_utc": "2026-10-12T22:27:19.085840Z",
+  "claude_rounds": 1
+}
